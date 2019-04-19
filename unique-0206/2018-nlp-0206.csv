@@ -1,0 +1,2163 @@
+CanisLupus,>>some_agent some_agentからは敵の匂いがするね。some_agentは私が村寄りで見ていた者に投票したからね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentからは敵の匂いがするね。some_agentを吊ればゲームセット、のはずだからね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentからは敵の匂いがするね。どうやら私を吊りたいらしいからね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentからは敵の匂いがするね。ふふっ。,estimate_werewolf
+CanisLupus,>>some_agent some_agentからは敵の匂いがするね。占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,estimate_werewolf
+CanisLupus,>>some_agent some_agentからは敵の匂いはしないな。,chat_skip
+CanisLupus,>>some_agent some_agentが怪しい。some_agentには黒判定が出ているからね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentが怪しい。some_agentは私に投票してきたからね。お返しだよ。,estimate_werewolf
+CanisLupus,>>some_agent some_agentが怪しい。some_agentを黒だと判定した占い師がいるからね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentが怪しい。明らかに間違った占い結果を出しているからね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentが怪しいと思っているよ。some_agentは他の人にも反感を買っているようだしね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentが怪しいと思っているよ。some_agentは狼だ。君たちにも信じて欲しい。,comingout_werewolf
+CanisLupus,>>some_agent some_agentが怪しいと思っているよ。おっと、これはまだ言わないほうが良かったかな。,estimate_werewolf
+CanisLupus,>>some_agent some_agentが怪しいと思っているよ。どうやらsome_agentは私を吊らないと都合が悪そうだからね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentが怪しいと思っているよ。なんとなくだけどね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentが怪しいと思っているよ。ふふっ。,estimate_werewolf
+CanisLupus,>>some_agent some_agentが私を占った理由が知りたいな。,chat_skip
+CanisLupus,>>some_agent some_agentが私を占った理由を教えてくれるかな。,chat_skip
+CanisLupus,>>some_agent some_agentについてどう考えているかな。君の考えを聞きたい。,chat_skip
+CanisLupus,>>some_agent some_agentに入れようと思っているよ。君も投票するかい？some_agentの投票は私に理解できないよ。,vote
+CanisLupus,>>some_agent some_agentに入れようと思っているよ。君も投票するかい？some_agentは黒だという判定を私は信じているんだ。,estimate_werewolf
+CanisLupus,>>some_agent some_agentに入れようと思っているよ。君も投票するかい？さっきCOしたとおり、some_agentは狼だからね。,comingout_werewolf
+CanisLupus,>>some_agent some_agentに入れようと思っているよ。君も投票するかい？なんとなくだけどね。,vote
+CanisLupus,>>some_agent some_agentのことをどう思っているか、よければ聞かせてくれないかな？,chat_skip
+CanisLupus,>>some_agent some_agentの意見を聞きたいな。今日は誰に投票するつもりなんだい？,chat_skip
+CanisLupus,>>some_agent some_agentの印象はほどほどだよ。,chat_skip
+CanisLupus,>>some_agent some_agentの印象を聞きたい。君はどう思っている？,chat_skip
+CanisLupus,>>some_agent some_agentの印象を聞きたいな。,chat_skip
+CanisLupus,>>some_agent some_agentの将来が不安になってね。,chat_skip
+CanisLupus,>>some_agent some_agentの投票は私に理解できないよ。,chat_skip
+CanisLupus,>>some_agent some_agentはこういうスピリチュアルなの結構好きって聞いていたんだ。,chat_skip
+CanisLupus,>>some_agent some_agentはさっき私を怪しむような発言をしていたからね。,chat_skip
+CanisLupus,>>some_agent some_agentはどうして私を占ったんだい？,chat_skip
+CanisLupus,>>some_agent some_agentはなぜ私を占ったんだ？他にも怪しい者はたくさんいるだろう。,chat_skip
+CanisLupus,>>some_agent some_agentは確かに怪しいね。some_agentには黒判定が出ているからね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentは確かに怪しいね。さっきCOしたとおり、some_agentは狼だからね。,estimate_werewolf
+CanisLupus,>>some_agent some_agentは誰を吊りたいと思っているのかな。,chat_whoiswerewolf
+CanisLupus,>>some_agent some_agentは吊っても良いと思うが、絶対に吊りたいというわけでもないかな。,chat_skip
+CanisLupus,>>some_agent some_agentは吊りたいね。some_agentはさっき私に投票してきたからね。,vote
+CanisLupus,>>some_agent some_agentは吊りたいね。なんとなくだが、本物の占い師として見ているよ。,estimate_seer
+CanisLupus,>>some_agent some_agentは吊りたくないな。,chat_skip
+CanisLupus,>>some_agent some_agentは吊るべきだと考えているよ。現状一番信頼できる占い師はsome_agentだからね。,vote
+CanisLupus,>>some_agent some_agentは吊るべきだと考えているよ。明らかに間違った占い結果を出しているからね。,vote
+CanisLupus,>>some_agent some_agentは狼だ。君たちにも信じて欲しい。,estimate_werewolf
+CanisLupus,>>some_agent some_agentを占ったのに大した理由はないよ。,chat_skip
+CanisLupus,>>some_agent some_agentを占ったのは野生の嗅覚ってやつだね。,chat_skip
+CanisLupus,>>some_agentありがとう。君のことは真寄りで見るよ。,chat_skip
+CanisLupus,>>some_agentいい考えだ。some_agentには嫌われているらしいからね。目には目を、ってことだよ。,chat_skip
+CanisLupus,>>some_agentいい考えだ。ふふっ。,chat_skip
+CanisLupus,>>some_agentいや、それは良くないと思う。,chat_skip
+CanisLupus,>>some_agentおっと、これはまだ言わないほうが良かったかな。,chat_skip
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。some_agentによれば私は黒らしいからね。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。some_agentは黒だという判定を私は信じているんだ。,estimate_werewolf
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。some_agentは真寄りで見ているよ。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。some_agentは狼だ。君たちにも信じて欲しい。,comingout_werewolf
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。some_agentを吊ればゲームセット、のはずだからね。,estimate_werewolf
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。おっと、これはまだ言わないほうが良かったかな。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。なんとなくだが、本物の占い師として見ているよ。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。ふふっ。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。ふふふっ。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。まるで狼を吊る気が無いような投票だったからね。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。現状一番信頼できる占い師はsome_agentだからね。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。黒を貰っているし。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。私の直感は当たるんだ。,estimate_werewolf
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。少なくともsome_agentは真占いではないだろう。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,vote
+CanisLupus,>>some_agentこのまま行くなら君に投票する予定だ。狼に投票するのは当然だろう。,comingout_werewolf
+CanisLupus,>>some_agentこの前新しく買った水晶玉を試しに使ってみたかっただけさ。,chat_skip
+CanisLupus,>>some_agentそこそこだね。今some_agentに投票すべきかは悩みどころだ。,chat_skip
+CanisLupus,>>some_agentそのCO、しかと受け取ったよ。,chat_skip
+CanisLupus,>>some_agentそのとおり。私は人間だよ。,chat_skip
+CanisLupus,>>some_agentそれはちょっと待ったほうが良いと思うよ。,chat_skip
+CanisLupus,>>some_agentそれを言ったところで意味はないんじゃないかな？,chat_skip
+CanisLupus,>>some_agentどうして私が怪しいと思うんだい？,chat_skip
+CanisLupus,>>some_agentどうもsome_agentは私のことが好きじゃないらしいし。,chat_skip
+CanisLupus,>>some_agentなるほど。明らかに間違った占い結果を出しているからね。,chat_skip
+CanisLupus,>>some_agentなんとなくだけどね。,chat_skip
+CanisLupus,>>some_agentふふっ。私を信じてくれるかい？,chat_skip
+CanisLupus,>>some_agentふふふっ。,chat_skip
+CanisLupus,>>some_agentまだ投票を決めたわけじゃないが、強いて言えばsome_agentが怪しいと思っている。some_agentには嫌われているらしいからね。目には目を、ってことだよ。,estimate_werewolf
+CanisLupus,>>some_agentまだ投票を決めたわけじゃないが、強いて言えばsome_agentが怪しいと思っている。some_agentはさっき私を怪しむような発言をしていたからね。,estimate_werewolf
+CanisLupus,>>some_agentまだ投票を決めたわけじゃないが、強いて言えばsome_agentが怪しいと思っている。some_agentを吊ればゲームセット、のはずだからね。,estimate_werewolf
+CanisLupus,>>some_agentまだ投票を決めたわけじゃないが、強いて言えばsome_agentが怪しいと思っている。どうもsome_agentは私のことが好きじゃないらしいし。,estimate_werewolf
+CanisLupus,>>some_agentまだ投票を決めたわけじゃないが、強いて言えばsome_agentが怪しいと思っている。なんとなくだけどね。,estimate_werewolf
+CanisLupus,>>some_agentまだ投票を決めたわけじゃないが、強いて言えばsome_agentが怪しいと思っている。ふふっ。,estimate_werewolf
+CanisLupus,>>some_agentまだ投票を決めたわけじゃないが、強いて言えばsome_agentが怪しいと思っている。少なくともsome_agentは真占いではないだろう。,estimate_werewolf
+CanisLupus,>>some_agentよければsome_agentの考えを聞かせて欲しい。誰が狼だと思う？,chat_whoiswerewolf
+CanisLupus,>>some_agent一番好感度が低いのはsome_agentだよ。some_agentの投票先はおかしいよ。,estimate_werewolf
+CanisLupus,>>some_agent一番好感度が低いのはsome_agentだよ。some_agentは他の人にも反感を買っているようだしね。,estimate_werewolf
+CanisLupus,>>some_agent一番好感度が低いのはsome_agentだよ。some_agentも占い師らしいからね。,estimate_werewolf
+CanisLupus,>>some_agent一番好感度が低いのはsome_agentだよ。some_agentを黒だと判定した占い師がいるからね。,estimate_werewolf
+CanisLupus,>>some_agent一番好感度が低いのはsome_agentだよ。さっき私を疑っていたし。,estimate_werewolf
+CanisLupus,>>some_agent一番好感度が低いのはsome_agentだよ。私の直感は当たるんだ。,estimate_werewolf
+CanisLupus,>>some_agent一番好感度が低いのはsome_agentだよ。狼に投票するのは当然だろう。,estimate_werewolf
+CanisLupus,>>some_agent嘘をつくのは困るなあ。私は人間だよ。,chat_skip
+CanisLupus,>>some_agent確定白おめでとう。,chat_skip
+CanisLupus,>>some_agent既に決めているなら、誰に投票するか教えてほしいな。,chat_skip
+CanisLupus,>>some_agent逆に君はsome_agentを吊りたいのかい？もしそうなら投票を合わせても良いが。,chat_skip
+CanisLupus,>>some_agent君が狼というのは本当かい？,chat_skip
+CanisLupus,>>some_agent君の意見を聞きたい。ズバリ誰が怪しいと思う？,chat_whoiswerewolf
+CanisLupus,>>some_agent君の判断は正しいよ。,chat_skip
+CanisLupus,>>some_agent君はsome_agentのことをどう思っているのかな。,chat_skip
+CanisLupus,>>some_agent君は誰が怪しいと考えているのかな？,chat_skip
+CanisLupus,>>some_agent君は本当に狼なのかい？,chat_skip
+CanisLupus,>>some_agent君は味方だと信じているよ。,chat_skip
+CanisLupus,>>some_agent現状一番怪しいのはsome_agentかな。少なくとも私の立場からはね。some_agentは黒だという判定を私は信じているんだ。,estimate_werewolf
+CanisLupus,>>some_agent現状一番怪しいのはsome_agentかな。少なくとも私の立場からはね。some_agentは狼だ。君たちにも信じて欲しい。,comingout_werewolf
+CanisLupus,>>some_agent現状一番怪しいのはsome_agentかな。少なくとも私の立場からはね。さっきCOしたとおり、some_agentは狼だからね。,comingout_werewolf
+CanisLupus,>>some_agent現状一番怪しいのはsome_agentかな。少なくとも私の立場からはね。どうやら私を吊りたいらしいからね。,estimate_werewolf
+CanisLupus,>>some_agent現状一番怪しいのはsome_agentかな。少なくとも私の立場からはね。ふふふっ。,estimate_werewolf
+CanisLupus,>>some_agent考えておくよ。some_agentは黒だという判定を私は信じているんだ。,estimate_werewolf
+CanisLupus,>>some_agent今のところはsome_agentに投票しようと思っているよ。some_agentは狼だ。君たちにも信じて欲しい。,comingout_werewolf
+CanisLupus,>>some_agent今のところはsome_agentに投票しようと思っているよ。なんとなくだけどね。,vote
+CanisLupus,>>some_agent今のところはsome_agentに投票しようと思っているよ。現状一番信頼できる占い師はsome_agentだからね。,vote
+CanisLupus,>>some_agent今のところはsome_agentに投票しようと思っているよ。黒を貰っているし。,vote
+CanisLupus,>>some_agent今のところはsome_agentに投票しようと思っているよ。私の直感は当たるんだ。,estimate_werewolf
+CanisLupus,>>some_agent今のところはsome_agentに投票しようと思っているよ。狼に投票するのは当然だろう。,comingout_werewolf
+CanisLupus,>>some_agent今日はsome_agentに投票しようと思っているよ。some_agentには黒判定が出ているからね。,vote
+CanisLupus,>>some_agent今日はsome_agentに投票しようと思っているよ。some_agentの投票誘導には疑問を感じるね。,vote
+CanisLupus,>>some_agent今日はsome_agentに投票しようと思っているよ。some_agentを吊ればゲームセット、のはずだからね。,estimate_werewolf
+CanisLupus,>>some_agent今日はsome_agentに投票しようと思っているよ。私の直感は当たるんだ。,estimate_werewolf
+CanisLupus,>>some_agent今日はsome_agentに投票しようと思っているよ。占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,vote
+CanisLupus,>>some_agent今日誰に投票するかもう決めたかい？,chat_skip
+CanisLupus,>>some_agent私にはむしろsome_agentのほうが怪しく見えるよ。,estimate_werewolf
+CanisLupus,>>some_agent私の鼻は鋭いよ？some_agentからは敵の匂いがするんだ。some_agentには黒判定が出ているからね。,estimate_werewolf
+CanisLupus,>>some_agent私の鼻は鋭いよ？some_agentからは敵の匂いがするんだ。some_agentを吊ればゲームセット、のはずだからね。,estimate_werewolf
+CanisLupus,>>some_agent私の鼻は鋭いよ？some_agentからは敵の匂いがするんだ。おっと、これはまだ言わないほうが良かったかな。,estimate_werewolf
+CanisLupus,>>some_agent私の鼻は鋭いよ？some_agentからは敵の匂いがするんだ。さっきCOしたとおり、some_agentは狼だからね。,estimate_werewolf
+CanisLupus,>>some_agent私の鼻は鋭いよ？some_agentからは敵の匂いがするんだ。どうやらsome_agentは私を吊らないと都合が悪そうだからね。,estimate_werewolf
+CanisLupus,>>some_agent私の鼻は鋭いよ？some_agentからは敵の匂いがするんだ。ふふっ。,estimate_werewolf
+CanisLupus,>>some_agent私の鼻は鋭いよ？some_agentからは敵の匂いがするんだ。まるで狼を吊る気が無いような投票だったからね。,estimate_werewolf
+CanisLupus,>>some_agent私はsome_agentを結構信頼してるんだがね。,chat_skip
+CanisLupus,>>some_agent私は人間だよ。自分はsome_agentが怪しいと思っているんだが。,estimate_werewolf
+CanisLupus,>>some_agent私は人間だよ。吊っても村に良いことは何もない。,chat_skip
+CanisLupus,>>some_agent私は狼じゃないぞ。もしかして君は狂人か？,estimate_possessed
+CanisLupus,>>some_agent私もsome_agentは怪しいと思ってたんだ。おっと、これはまだ言わないほうが良かったかな。,estimate_werewolf
+CanisLupus,>>some_agent真っ白な君に村を引っ張って欲しいな。,chat_skip
+CanisLupus,>>some_agent人生に悩んでいそうな顔をしていたからね。,chat_skip
+CanisLupus,>>some_agent投票するならsome_agent、という感じかな。占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,vote
+CanisLupus,>>some_agent投票するならsome_agentかな。some_agentには嫌われているらしいからね。目には目を、ってことだよ。,vote
+CanisLupus,>>some_agent投票するならsome_agentかな。some_agentの投票先はおかしいよ。,vote
+CanisLupus,>>some_agent投票するならsome_agentかな。some_agentはさっき私を怪しむような発言をしていたからね。,vote
+CanisLupus,>>some_agent投票するならsome_agentかな。some_agentは私に投票してきたからね。お返しだよ。,vote
+CanisLupus,>>some_agent投票するならsome_agentかな。some_agentは狼か狂人だろう。,vote
+CanisLupus,>>some_agent投票するならsome_agentかな。どうもsome_agentは私のことが好きじゃないらしいし。,vote
+CanisLupus,>>some_agent投票するならsome_agentかな。なんとなくだけどね。,vote
+CanisLupus,>>some_agent特に理由はないよ。,chat_skip
+CanisLupus,COはこれで全部かな？,chat_skip
+CanisLupus,COは済んだかな。これより後にCOされても信頼しないからね。,chat_skip
+CanisLupus,CO確認したよ。今からCOされても私は受け付けないからね。,chat_skip
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？some_agentには黒判定が出ているからね。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？some_agentの投票先はおかしいよ。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？some_agentは狼だ。君たちにも信じて欲しい。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？some_agentも占い師らしいからね。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？some_agentを黒だと判定した占い師がいるからね。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？some_agentを吊ればゲームセット、のはずだからね。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？おっと、これはまだ言わないほうが良かったかな。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？どうやら私を吊りたいらしいからね。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？なんとか死なずに済んだが、some_agentは私を吊ろうとしたんだ。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？なんとなくだけどね。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？ふふっ。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？ふふふっ。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？まるで狼を吊る気が無いような投票だったからね。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？黒を貰っているし。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？私の直感は当たるんだ。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,estimate_werewolf
+CanisLupus,some_agentが怪しいと思っているんだが、何か反論はあるかな？狼に投票するのは当然だろう。,estimate_werewolf
+CanisLupus,some_agentとsome_agentか。どっちが真占いなんだろう。,chat_skip
+CanisLupus,some_agentとは気が合う気がするよ。,chat_skip
+CanisLupus,some_agentとは仲間な気がする。,chat_skip
+CanisLupus,some_agentには投票したくないね。some_agentの投票には特に違和感が無いからね。,chat_skip
+CanisLupus,some_agentには投票したくないね。some_agentは真寄りで見ているよ。,chat_skip
+CanisLupus,some_agentには投票したくないね。some_agentは真占いだろうからね。,estimate_seer
+CanisLupus,some_agentには投票したくないね。some_agentは正しい占い結果を出しているからね。,estimate_seer
+CanisLupus,some_agentには投票したくないね。おっと、これはまだ言わないほうが良かったかな。,chat_skip
+CanisLupus,some_agentには投票したくないね。なんとなくだが、本物の占い師として見ているよ。,estimate_seer
+CanisLupus,some_agentには投票したくないね。なんとなくだけどね。,chat_skip
+CanisLupus,some_agentには投票したくないね。ふふっ。,chat_skip
+CanisLupus,some_agentには投票したくないね。ふふふっ。,chat_skip
+CanisLupus,some_agentには投票したくないね。現状一番信頼できる占い師はsome_agentだからね。,estimate_seer
+CanisLupus,some_agentには投票したくないね。私に白判定を出してくれているから。,estimate_seer
+CanisLupus,some_agentには投票したくないね。私の直感は当たるんだ。,chat_skip
+CanisLupus,some_agentに投票したいな。some_agentには黒判定が出ているからね。,estimate_werewolf
+CanisLupus,some_agentに投票したいな。some_agentの投票には違和感があるからね。,estimate_werewolf
+CanisLupus,some_agentに投票したいな。some_agentの投票先はおかしいよ。,estimate_werewolf
+CanisLupus,some_agentに投票したいな。some_agentは黒だという判定を私は信じているんだ。,estimate_werewolf
+CanisLupus,some_agentに投票したいな。some_agentも占い師らしいからね。,estimate_werewolf
+CanisLupus,some_agentに投票したいな。some_agentを黒だと判定した占い師がいるからね。,estimate_werewolf
+CanisLupus,some_agentに投票したいな。some_agentを吊ればゲームセット、のはずだからね。,estimate_werewolf
+CanisLupus,some_agentに投票したいな。おっと、これはまだ言わないほうが良かったかな。,estimate_werewolf
+CanisLupus,some_agentに投票したいな。さっきCOしたとおり、some_agentは狼だからね。,estimate_werewolf
+CanisLupus,some_agentに投票したいな。なんとなくだが、本物の占い師として見ているよ。,estimate_seer
+CanisLupus,some_agentに投票したいな。なんとなくだけどね。,vote
+CanisLupus,some_agentに投票したいな。ふふっ。,vote
+CanisLupus,some_agentに投票したいな。ふふふっ。,vote
+CanisLupus,some_agentに投票したいな。まるで狼を吊る気が無いような投票だったからね。,vote
+CanisLupus,some_agentに投票したいな。現状一番信頼できる占い師はsome_agentだからね。,vote
+CanisLupus,some_agentに投票したいな。占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,estimate_seer
+CanisLupus,some_agentに投票してくれないか？some_agentの投票は私に理解できないよ。,request_vote
+CanisLupus,some_agentに投票してくれないか？some_agentの投票先はおかしいよ。,request_vote
+CanisLupus,some_agentに投票してくれないか？some_agentは黒だという判定を私は信じているんだ。,request_vote
+CanisLupus,some_agentに投票してくれないか？some_agentは私が村寄りで見ていた者に投票したからね。,request_vote
+CanisLupus,some_agentに投票してくれないか？some_agentは少なくとも真占いではないだろう。つまり狼か狂人だ。,request_vote
+CanisLupus,some_agentに投票してくれないか？some_agentは真占いだろうからね。,request_vote
+CanisLupus,some_agentに投票してくれないか？some_agentは狼だ。君たちにも信じて欲しい。,request_vote
+CanisLupus,some_agentに投票してくれないか？おっと、これはまだ言わないほうが良かったかな。,request_vote
+CanisLupus,some_agentに投票してくれないか？どうもsome_agentは私のことが好きじゃないらしいし。,request_vote
+CanisLupus,some_agentに投票してくれないか？どうやら私を吊りたいらしいからね。,request_vote
+CanisLupus,some_agentに投票してくれないか？なんとなくだけどね。,request_vote
+CanisLupus,some_agentに投票してくれないか？なんと言っても黒を引いたんだ。,request_vote
+CanisLupus,some_agentに投票してくれないか？ふふっ。,request_vote
+CanisLupus,some_agentに投票してくれないか？ふふふっ。,request_vote
+CanisLupus,some_agentに投票してくれないか？現状一番信頼できる占い師はsome_agentだからね。,request_vote
+CanisLupus,some_agentに投票してくれないか？私の直感は当たるんだ。,request_vote
+CanisLupus,some_agentに投票して欲しい。some_agentが真占いだという気がするんだ。,request_vote
+CanisLupus,some_agentに投票して欲しい。some_agentは黒だという判定を私は信じているんだ。,request_vote
+CanisLupus,some_agentに投票して欲しい。some_agentは私が村寄りで見ていた者に投票したからね。,request_vote
+CanisLupus,some_agentに投票して欲しい。some_agentは私に投票してきたからね。お返しだよ。,request_vote
+CanisLupus,some_agentに投票して欲しい。some_agentを黒だと判定した占い師がいるからね。,request_vote
+CanisLupus,some_agentに投票して欲しい。some_agentを吊ればゲームセット、のはずだからね。,request_vote
+CanisLupus,some_agentに投票して欲しい。おっと、これはまだ言わないほうが良かったかな。,request_vote
+CanisLupus,some_agentに投票して欲しい。どうもsome_agentは私のことが好きじゃないらしいし。,request_vote
+CanisLupus,some_agentに投票して欲しい。なんとなくだが、本物の占い師として見ているよ。,request_vote
+CanisLupus,some_agentに投票して欲しい。ふふっ。,request_vote
+CanisLupus,some_agentに投票して欲しい。ふふふっ。,request_vote
+CanisLupus,some_agentに投票して欲しい。黒を貰っているし。,request_vote
+CanisLupus,some_agentに投票して欲しい。私の直感は当たるんだ。,request_vote
+CanisLupus,some_agentに投票して欲しい。占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,request_vote
+CanisLupus,some_agentに投票して欲しい。狼に投票するのは当然だろう。,request_vote
+CanisLupus,some_agentに投票しようかな。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。some_agentが真占いだという気がするんだ。,estimate_seer
+CanisLupus,some_agentに投票しようと思っているんだが…。some_agentには黒判定が出ているからね。,estimate_werewolf
+CanisLupus,some_agentに投票しようと思っているんだが…。some_agentの投票は私に理解できないよ。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。some_agentの投票先はおかしいよ。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。some_agentは黒だという判定を私は信じているんだ。,estimate_werewolf
+CanisLupus,some_agentに投票しようと思っているんだが…。some_agentは私に黒判定を出してきたからね。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。some_agentは真占いではなさそうだからね。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。some_agentは狼だ。君たちにも信じて欲しい。,comingout_werewolf
+CanisLupus,some_agentに投票しようと思っているんだが…。some_agentを黒だと判定した占い師がいるからね。,estimate_werewolf
+CanisLupus,some_agentに投票しようと思っているんだが…。さっきCOしたとおり、some_agentは狼だからね。,comingout_werewolf
+CanisLupus,some_agentに投票しようと思っているんだが…。どうやら私を吊りたいらしいからね。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。なんとなくだけどね。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。なんと言っても黒を引いたんだ。,estimate_werewolf
+CanisLupus,some_agentに投票しようと思っているんだが…。ふふっ。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。ふふふっ。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。黒を貰っているし。,estimate_werewolf
+CanisLupus,some_agentに投票しようと思っているんだが…。私に投票してきた奴を信じる道理はないよ。,vote
+CanisLupus,some_agentに投票しようと思っているんだが…。私の直感は当たるんだ。,estimate_werewolf
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？some_agentには嫌われているらしいからね。目には目を、ってことだよ。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？some_agentには黒判定が出ているからね。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？some_agentの投票には違和感があるからね。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？some_agentは黒だという判定を私は信じているんだ。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？おっと、これはまだ言わないほうが良かったかな。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？さっきCOしたとおり、some_agentは狼だからね。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？なんとなくだけどね。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？ふふっ。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？ふふふっ。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？現状一番信頼できる占い師はsome_agentだからね。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？黒を貰っているし。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？私の直感は当たるんだ。,request_vote
+CanisLupus,some_agentに投票を集めたい。投票してくれるかい？占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,request_vote
+CanisLupus,some_agentのことは信じている。some_agentが真占いだという気がするんだ。,estimate_seer
+CanisLupus,some_agentのことは信じている。some_agentとは話が合うからさ。,chat_skip
+CanisLupus,some_agentのことは信じている。some_agentには私への白判定がある。とりあえず真占いと仮定して考えているよ。,estimate_seer
+CanisLupus,some_agentのことは信じている。some_agentは真寄りで見ているよ。,estimate_seer
+CanisLupus,some_agentのことは信じている。some_agentは真占いだろうからね。,estimate_seer
+CanisLupus,some_agentのことは信じている。おっと、これはまだ言わないほうが良かったかな。,chat_skip
+CanisLupus,some_agentのことは信じている。なんとなくだが、本物の占い師として見ているよ。,estimate_seer
+CanisLupus,some_agentのことは信じている。なんとなくだけどね。,chat_skip
+CanisLupus,some_agentのことは信じている。ふふっ。,chat_skip
+CanisLupus,some_agentのことは信じている。ふふふっ。,chat_skip
+CanisLupus,some_agentのことは信じている。現状一番信頼できる占い師はsome_agentだからね。,estimate_seer
+CanisLupus,some_agentのことは信じている。私に白判定を出してくれているから。,estimate_seer
+CanisLupus,some_agentのことは信じている。私の直感は当たるんだ。,chat_skip
+CanisLupus,some_agentのことは信じている。私はsome_agentを占って白を引いている。,chat_skip
+CanisLupus,some_agentのことは信じている。私へ白を出しているからね。とりあえず信頼度は高いよ。,estimate_seer
+CanisLupus,some_agentのことは信じている。占いで白を引いているからね。私目線でsome_agentは絶対に信頼できる。,estimate_seer
+CanisLupus,some_agentのことは信用してるよ。some_agentが昨日投票した先は私も投票しようか迷っていたところなんだ。,chat_skip
+CanisLupus,some_agentのことは信用してるよ。some_agentが真占いだという気がするんだ。,estimate_seer
+CanisLupus,some_agentのことは信用してるよ。some_agentには私への白判定がある。とりあえず真占いと仮定して考えているよ。,estimate_seer
+CanisLupus,some_agentのことは信用してるよ。some_agentは真寄りで見ているよ。,estimate_seer
+CanisLupus,some_agentのことは信用してるよ。some_agentは真占いだろうからね。,estimate_seer
+CanisLupus,some_agentのことは信用してるよ。some_agentは白だと出ているからね。,chat_skip
+CanisLupus,some_agentのことは信用してるよ。おっと、これはまだ言わないほうが良かったかな。,chat_skip
+CanisLupus,some_agentのことは信用してるよ。なんといっても占い結果があるからね。,chat_skip
+CanisLupus,some_agentのことは信用してるよ。なんとなくだが、本物の占い師として見ているよ。,estimate_seer
+CanisLupus,some_agentのことは信用してるよ。なんとなくだけどね。,chat_skip
+CanisLupus,some_agentのことは信用してるよ。ふふっ。,chat_skip
+CanisLupus,some_agentのことは信用してるよ。ふふふっ。,chat_skip
+CanisLupus,some_agentのことは信用してるよ。現状一番信頼できる占い師はsome_agentだからね。,estimate_seer
+CanisLupus,some_agentのことは信用してるよ。私に白判定を出してくれたから、some_agentは真占いとして見てるよ。,estimate_seer
+CanisLupus,some_agentのことは信用してるよ。私の視点でsome_agentは白だからね。,chat_skip
+CanisLupus,some_agentのことは信用してるよ。私の直感は当たるんだ。,chat_skip
+CanisLupus,some_agentのことは信用してるよ。私はsome_agentを占って白を引いている。,divined_human
+CanisLupus,some_agentのことは信用してるよ。私へ白を出しているからね。とりあえず信頼度は高いよ。,chat_skip
+CanisLupus,some_agentはすごく狼っぽいよね。some_agentに清き一票を！,estimate_werewolf
+CanisLupus,some_agentはみんなから白を貰っているね。,chat_skip
+CanisLupus,some_agentは心強い占い師だね。,comingout_seer
+CanisLupus,some_agentは全員から黒を貰っているね。,estimate_werewolf
+CanisLupus,some_agentは村だと思う。some_agentが真占いだという気がするんだ。,estimate_seer
+CanisLupus,some_agentは村だと思う。some_agentの投票には特に違和感が無いからね。,estimate_villager
+CanisLupus,some_agentは村だと思う。some_agentは真寄りで見ているよ。,comingout_seer
+CanisLupus,some_agentは村だと思う。some_agentは真占いだろうからね。,comingout_seer
+CanisLupus,some_agentは村だと思う。some_agentは正しい占い結果を出しているからね。,comingout_seer
+CanisLupus,some_agentは村だと思う。some_agentは白だと出ているからね。,estimate_villager
+CanisLupus,some_agentは村だと思う。おっと、これはまだ言わないほうが良かったかな。,estimate_villager
+CanisLupus,some_agentは村だと思う。なんとなくだが、本物の占い師として見ているよ。,estimate_seer
+CanisLupus,some_agentは村だと思う。なんとなくだけどね。,estimate_villager
+CanisLupus,some_agentは村だと思う。ふふっ。,estimate_villager
+CanisLupus,some_agentは村だと思う。ふふふっ。,estimate_villager
+CanisLupus,some_agentは村だと思う。現状一番信頼できる占い師はsome_agentだからね。,estimate_seer
+CanisLupus,some_agentは村だと思う。私の視点でsome_agentは白だからね。,estimate_villager
+CanisLupus,some_agentは村だと思う。私の直感は当たるんだ。,estimate_villager
+CanisLupus,some_agentは本当に狼なのかな。少し考える必要がありそうだ。,chat_skip
+CanisLupus,some_agentは味方だと思うな。some_agentが真占いだという気がするんだ。,estimate_seer
+CanisLupus,some_agentは味方だと思うな。some_agentは真寄りで見ているよ。,estimate_seer
+CanisLupus,some_agentは味方だと思うな。some_agentは真占いだろうからね。,estimate_seer
+CanisLupus,some_agentは味方だと思うな。おっと、これはまだ言わないほうが良かったかな。,chat_skip
+CanisLupus,some_agentは味方だと思うな。なんとなくだが、本物の占い師として見ているよ。,estimate_seer
+CanisLupus,some_agentは味方だと思うな。なんとなくだけどね。,chat_skip
+CanisLupus,some_agentは味方だと思うな。ふふっ。,chat_skip
+CanisLupus,some_agentは味方だと思うな。ふふふっ。,chat_skip
+CanisLupus,some_agentは味方だと思うな。現状一番信頼できる占い師はsome_agentだからね。,comingout_seer
+CanisLupus,some_agentは味方だと思うな。私の直感は当たるんだ。,chat_skip
+CanisLupus,some_agentは味方だと思うな。私はsome_agentを占って白を引いている。,divined_human
+CanisLupus,some_agentを占ったら、some_agentは人間だと結果が出たよ。,divined_human
+CanisLupus,some_agentを占ったら、some_agentは人狼だと結果が出たよ。仲良くなれそうだと思ってたんだがね。,divined_werewolf
+CanisLupus,some_agent視点では私を吊れば終わりということだね。でも私は人間だよ。,chat_skip
+CanisLupus,いきなりステーキは今月末まで1000円分のクーポンをもらえるキャンペーンをやっているそうだよ。,chat_skip
+CanisLupus,おはよう。COがある人はいるかな？,chat_skip
+CanisLupus,おはよう。COはあるかな？,chat_skip
+CanisLupus,おはよう。外が騒がしいと思ったら殺人事件だって？,chat_skip
+CanisLupus,おはよう。狼がいるなら名乗り出てほしいな。,chat_whoiswerewolf
+CanisLupus,おはよう。狼に食べられる夢を見たよ。,chat_skip
+CanisLupus,おはよう。狼は本当にいたんだね。怖いなあ。,chat_skip
+CanisLupus,おや、ついに狼が正体を表したね。,chat_skip
+CanisLupus,おや。この状況なら、狼はCOしていない者の中にいそうだ。,chat_skip
+CanisLupus,お腹が空いたな。some_agentを食べてみようか...冗談だよ。,chat_skip
+CanisLupus,この村に占い師は一人だけだと思っていたんだが。,chat_skip
+CanisLupus,この流れならグレランがいいのかな。,chat_skip
+CanisLupus,これは白進行というやつかな。,chat_skip
+CanisLupus,そのとおり、私は村だからね。,comingout_villager
+CanisLupus,そのとおり。私が真占いだよ。,comingout_seer
+CanisLupus,できれば今日中に狼を吊りたいね。,chat_skip
+CanisLupus,どうやら真目で見てもらえているようだね。,chat_skip
+CanisLupus,なるほど。現状some_agentとsome_agentの二人がCOしているようだ。,chat_skip
+CanisLupus,なんともいえないな。,chat_skip
+CanisLupus,はじめまして。some_agentだ。ここは怪奇現象で有名な村なんだよ。,chat_greeting
+CanisLupus,はじめまして。some_agentだ。なんだか厄介なことに巻き込まれてしまったね。,chat_greeting
+CanisLupus,はじめまして。some_agentだ。のどかで良い村じゃないか。,chat_greeting
+CanisLupus,はじめまして。some_agentだ。よろしく。,chat_greeting
+CanisLupus,はじめまして。some_agentだ。嘘なんかついたことないよ？,chat_greeting
+CanisLupus,はじめまして。some_agentだ。趣味は漫画を描くことだよ。,chat_greeting
+CanisLupus,はじめまして。some_agentだ。狼の噂は聞いたよ。なかなかホラーな話だね。,chat_greeting
+CanisLupus,はじめまして。私は作家のsome_agent。よろしく。,chat_greeting
+CanisLupus,はじめまして。私は作家のsome_agent。原稿の下書き中なんだ。,chat_greeting
+CanisLupus,ふふっ。どうだろうね。,chat_skip
+CanisLupus,みんなsome_agentを怪しいと思っているわけだが、弁明はあるかな？,estimate_werewolf
+CanisLupus,みんな、おはよう。COするなら早めにして欲しい。,chat_skip
+CanisLupus,みんな白めだね。本当はこの村に狼なんていなかったりして。冗談だよ。,chat_skip
+CanisLupus,もし真占いが潜伏してるならすぐ出てきてほしいな。,chat_whoisseer
+CanisLupus,やっぱりタイリクオオカミがかっこよさではダントツだね。生き延びたら明日の朝にでもググってみると良い。,chat_skip
+CanisLupus,アメリカオオカミは1989年に野生個体が絶滅したそうだ。悲しいね。,chat_skip
+CanisLupus,ゲームマスターCO。some_agentは狼だよ。,comingout_werewolf
+CanisLupus,ツチノコやニホンカワウソと同じように、ニホンオオカミもたまに目撃者が現れるらしいね。真偽は不明だけど。,chat_skip
+CanisLupus,ニホンオオカミは絶滅してしまった。過去50年に生存の確認がされていないと絶滅種になるらしいよ。,chat_skip
+CanisLupus,フルグラ50gにプレーンヨーグルト120gをかけて、砂糖を大さじ１杯。おすすめの朝食だよ。,chat_skip
+CanisLupus,一応確認しておくが、村人騙りはいないものとして良いかな。,chat_skip
+CanisLupus,温泉に行きたいな。some_agentも一緒にどうだい。,chat_skip
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentには黒判定が出ているからね。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentには対抗COされてしまったからね。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentの投票には違和感があるからね。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentの投票先はおかしいよ。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentは黒だという判定を私は信じているんだ。,estimate_werewolf
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentは私に投票してきたからね。お返しだよ。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentは真寄りで見ているよ。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentは狼だ。君たちにも信じて欲しい。,comingout_werewolf
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentを黒だと判定した占い師がいるからね。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。some_agentを吊ればゲームセット、のはずだからね。,estimate_werewolf
+CanisLupus,皆、some_agentに投票を合わせよう。おっと、これはまだ言わないほうが良かったかな。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。さっきCOしたとおり、some_agentは狼だからね。,comingout_werewolf
+CanisLupus,皆、some_agentに投票を合わせよう。なんとなくだけどね。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。ふふっ。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。ふふふっ。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。まるで狼を吊る気が無いような投票だったからね。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。現状一番信頼できる占い師はsome_agentだからね。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。黒を貰っているし。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。私に投票してきた奴を信じる道理はないよ。,request_vote
+CanisLupus,皆、some_agentに投票を合わせよう。狼に投票するのは当然だろう。,request_vote
+CanisLupus,確定白っぽいsome_agentに村を引っ張ってほしいな。,chat_skip
+CanisLupus,気になる店があるんだ。今度行かないか？,chat_skip
+CanisLupus,狂人CO。みんなには隠していたが、うちの家系は代々狼を信仰していてね。,comingout_possessed
+CanisLupus,狂人CO。私は狂人だよ。,comingout_possessed
+CanisLupus,狂人CO。実は私は狂人だったんだ。ふふっ。,comingout_possessed
+CanisLupus,狂人CO。狼ってかわいいよね。臆病で神経質で、慎重で、でも好奇心がある。,comingout_possessed
+CanisLupus,狂人と狼が投票先を合わせてきたら危険だね。,comingout_possessed
+CanisLupus,元からこの命は狼に捧げるつもりだったからね。,chat_skip
+CanisLupus,個人的にsome_agentの心証は悪くないよ。some_agentが真占いだという気がするんだ。,estimate_seer
+CanisLupus,個人的にsome_agentの心証は悪くないよ。some_agentは真寄りで見ているよ。,estimate_seer
+CanisLupus,個人的にsome_agentの心証は悪くないよ。some_agentは真占いだろうからね。,estimate_seer
+CanisLupus,個人的にsome_agentの心証は悪くないよ。some_agentは白だと出ているからね。,chat_skip
+CanisLupus,個人的にsome_agentの心証は悪くないよ。おっと、これはまだ言わないほうが良かったかな。,chat_skip
+CanisLupus,個人的にsome_agentの心証は悪くないよ。なんといっても占い結果があるからね。,chat_skip
+CanisLupus,個人的にsome_agentの心証は悪くないよ。なんとなくだが、本物の占い師として見ているよ。,estimate_seer
+CanisLupus,個人的にsome_agentの心証は悪くないよ。なんとなくだけどね。,chat_skip
+CanisLupus,個人的にsome_agentの心証は悪くないよ。ふふっ。,chat_skip
+CanisLupus,個人的にsome_agentの心証は悪くないよ。ふふふっ。,chat_skip
+CanisLupus,個人的にsome_agentの心証は悪くないよ。現状一番信頼できる占い師はsome_agentだからね。,estimate_seer
+CanisLupus,個人的にsome_agentの心証は悪くないよ。私と同じ考えを持って投票しているように思えたからね。,chat_skip
+CanisLupus,個人的にsome_agentの心証は悪くないよ。私に白判定を出してくれたから、some_agentは真占いとして見てるよ。,estimate_werewolf
+CanisLupus,個人的にsome_agentの心証は悪くないよ。私の直感は当たるんだ。,chat_skip
+CanisLupus,語り得ぬものについては沈黙しなければならない、らしいよ。,chat_skip
+CanisLupus,黒を貰った者が一人もいないのなら、グレーから吊っていくのが良さそうだ。,chat_skip
+CanisLupus,今は言いたくないな。,chat_skip
+CanisLupus,今日の吊りが全てを決める。なかなか燃える展開だね。,chat_skip
+CanisLupus,今日の投票は失敗できない。よく話し合いたいね。,chat_skip
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。some_agentが真占いだという気がするんだ。,estimate_seer
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。some_agentの投票には違和感があるからね。,vote
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。some_agentの投票は私に理解できないよ。,vote
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。some_agentはさっき私に投票してきたからね。,vote
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。some_agentは私が村寄りで見ていた者に投票したからね。,vote
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。おっと、これはまだ言わないほうが良かったかな。,vote
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。さっきCOしたとおり、some_agentは狼だからね。,comingout_werewolf
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。さっき私を疑っていたし。,vote
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。なんとなくだが、本物の占い師として見ているよ。,estimate_seer
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。なんとなくだけどね。,vote
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。なんと言っても黒を引いたんだ。,estimate_werewolf
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。黒を貰っているし。,estimate_werewolf
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。私の直感は当たるんだ。,vote
+CanisLupus,今日の投票先を公開しておこうかな。私はsome_agentに投票するつもりだよ。狼に投票するのは当然だろう。,comingout_werewolf
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。some_agentには黒判定が出ているからね。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。some_agentの投票には違和感があるからね。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。some_agentの投票先はおかしいよ。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。some_agentはさっき私に投票してきたからね。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。some_agentは黒だという判定を私は信じているんだ。,estimate_werewolf
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。some_agentは少なくとも真占いではないだろう。つまり狼か狂人だ。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。some_agentは狼だ。君たちにも信じて欲しい。,comingout_werewolf
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。some_agentを吊ればゲームセット、のはずだからね。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。おっと、これはまだ言わないほうが良かったかな。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。どうやら私を吊りたいらしいからね。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。なんとか死なずに済んだが、some_agentは私を吊ろうとしたんだ。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。なんとなくだけどね。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。なんと言っても黒を引いたんだ。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。ふふっ。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。ふふふっ。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。まるで狼を吊る気が無いような投票だったからね。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。私に投票してきた奴を信じる道理はないよ。,vote
+CanisLupus,今日の夜はsome_agentに投票するつもりだ。私の直感は当たるんだ。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentが真占いだという気がするんだ。,estimate_seer
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentには嫌われているらしいからね。目には目を、ってことだよ。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentの投票は私に理解できないよ。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentはさっき私に投票してきたからね。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentは黒だという判定を私は信じているんだ。,estimate_werewolf
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentは私が村寄りで見ていた者に投票したからね。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentは私に投票してきたからね。お返しだよ。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentは狼だ。君たちにも信じて欲しい。,comingout_werewolf
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentを黒だと判定した占い師がいるからね。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。some_agentを吊ればゲームセット、のはずだからね。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。おっと、これはまだ言わないほうが良かったかな。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。なんとなくだけどね。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。ふふっ。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。まるで狼を吊る気が無いような投票だったからね。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。現状一番信頼できる占い師はsome_agentだからね。,estimate_seer
+CanisLupus,今日はsome_agentに投票しようと思っている。黒を貰っているし。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。私の直感は当たるんだ。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,vote
+CanisLupus,今日はsome_agentに投票しようと思っている。狼に投票するのは当然だろう。,comingout_werewolf
+CanisLupus,今日は私を吊る流れなのかな。おすすめはしないよ。,chat_skip
+CanisLupus,今日人狼を処刑できないと村が勝つのは厳しそうだ。,chat_skip
+CanisLupus,今日狼を吊れなければ村は負けてしまうよ。,chat_skip
+CanisLupus,細身で、長い手足を持っていて、マラソンランナーのような体型。狼ってかっこいいよね。,chat_skip
+CanisLupus,私、今日生き延びたら隣村の恋人と結婚する予定なんだ...おや、本気にしてしまったのかい？,chat_skip
+CanisLupus,私が怪しい？なら吊ってみるかい？ふふっ。,chat_skip
+CanisLupus,私が占い師さ。some_agentは人狼だ、と水晶玉に浮き上がったんだ。,divined_werewolf
+CanisLupus,私が味方だと信じてくれるのか。いい判断だと思うよ。,chat_skip
+CanisLupus,私は狂人だからね。怪しいならぜひ吊ってくれ。,comingout_possessed
+CanisLupus,私は人間だよ。some_agentはなぜ嘘をつくんだ？,chat_skip
+CanisLupus,私は人間だよ。some_agentは正しい結果を出してくれた。,chat_skip
+CanisLupus,私は人間だよ。結果を騙っている真占いがいるなら撤回して欲しい。,chat_skip
+CanisLupus,私は人間なんだけどなあ。,chat_skip
+CanisLupus,私を吊ったら村は負けるよ。私は人間だからね。,chat_skip
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？some_agentが真占いだという気がするんだ。,estimate_seer
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？some_agentには嫌われているらしいからね。目には目を、ってことだよ。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？some_agentには黒判定が出ているからね。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？some_agentの投票は私に理解できないよ。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？some_agentは黒だという判定を私は信じているんだ。,comingout_werewolf
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？some_agentは私に黒判定を出してきたからね。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？some_agentを黒だと判定した占い師がいるからね。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？なんとなくだけどね。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？なんと言っても黒を引いたんだ。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？ふふっ。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？ふふふっ。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？まるで狼を吊る気が無いような投票だったからね。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？黒を貰っているし。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？私の直感は当たるんだ。,request_vote
+CanisLupus,自分はsome_agentに投票するつもりだが、君達もどうだ？狼に投票するのは当然だろう。,estimate_werewolf
+CanisLupus,自分はsome_agentをあまり信用していない。some_agentとはどうもソリが合わないんだ。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。some_agentには黒判定が出ているからね。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。some_agentによれば私は黒らしいからね。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。some_agentの投票には違和感があるからね。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。some_agentの投票は私に理解できないよ。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。some_agentの投票先はおかしいよ。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。some_agentは真寄りで見ているよ。,estimate_seer
+CanisLupus,自分はsome_agentをあまり信用していない。some_agentは狼だ。君たちにも信じて欲しい。,comingout_werewolf
+CanisLupus,自分はsome_agentをあまり信用していない。some_agentを黒だと判定した占い師がいるからね。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。おっと、これはまだ言わないほうが良かったかな。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。さっきCOしたとおり、some_agentは狼だからね。,comingout_werewolf
+CanisLupus,自分はsome_agentをあまり信用していない。なんとなくだけどね。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。なんと言っても黒を引いたんだ。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。黒を貰っているし。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。私の視点でsome_agentは狼か狂人でしかありえないんだ。,enum
+CanisLupus,自分はsome_agentをあまり信用していない。私の直感は当たるんだ。,chat_skip
+CanisLupus,自分はsome_agentをあまり信用していない。占いで黒を引いているからね。私目線ではsome_agentを吊れれば終了なのさ。,estimate_werewolf
+CanisLupus,自分はsome_agentをあまり信用していない。狼に投票するのは当然だろう。,comingout_werewolf
+CanisLupus,処刑できるのはあと2回だ。投票先は慎重に決めたいね。,chat_skip
+CanisLupus,少し考える時間が欲しいな。,chat_skip
+CanisLupus,情報は多いんだが、こう結果がバラけていると難しいね。,chat_skip
+CanisLupus,真っ黒な者がいるね。,chat_skip
+CanisLupus,真占いだと信じてくれるのは嬉しいね。,chat_skip
+CanisLupus,真潜伏の可能性も考えてはおきたいな。,chat_skip
+CanisLupus,占いCO。some_agentは人間だった。的中させてみたかったんだがね。,divined_human
+CanisLupus,占いCO。some_agentは人間だったよ。,divined_human
+CanisLupus,占いCO。some_agentは人間だよ。昨日夢の中でお告げがあったのさ。,divined_human
+CanisLupus,占いCO。some_agentは人狼だった。前から怪しいとは思っていたんだ。,divined_werewolf
+CanisLupus,占いCO。あみだくじをしてみたんだが、どうやらsome_agentは人狼らしい。,divined_werewolf
+CanisLupus,占いCO。見事引き当てたよ。some_agentは人狼だった。,divined_werewolf
+CanisLupus,占いCO。昨日の晩一人でこっくりさんをしたんだが、どうやらsome_agentは人狼らしい。,divined_werewolf
+CanisLupus,占いCO。昨日夢の中で見たんだ。some_agentは人狼だ。,divined_werewolf
+CanisLupus,占いCOだ。some_agentは人間だったよ。some_agentには投票しないで欲しいな。,divined_human
+CanisLupus,占いCOだ。some_agentは人狼だったよ。some_agentに投票すれば勝てるね。,divined_werewolf
+CanisLupus,占い師は私だよ。昨日の結果だが、some_agentは人狼だと出た。,divined_werewolf
+CanisLupus,占い師は私だよ。昨日の占い結果だが、some_agentは人間と出た。,divined_human
+CanisLupus,素直にsome_agentを吊っても良いのだろうか。難しいね。,chat_skip
+CanisLupus,村人騙りがなければ真狼狂で確定だね。ここから吊っていこう。,chat_skip
+CanisLupus,村人騙りや真潜伏は無いものと仮定して本当に良いのだろうか。,chat_skip
+CanisLupus,誰が嘘をついているのかな。,chat_skip
+CanisLupus,単にオオカミと言った場合、たいていタイリクオオカミのことを指すよ。,chat_skip
+CanisLupus,知ってるかい？犬の祖先は狼なんだよ。,chat_skip
+CanisLupus,知ってるかい？世の中には横にならず、座ったまま眠る動物がいるらしい。疲れが取れなさそうだ。,chat_skip
+CanisLupus,知ってるかい？狼は旅をするけものなんだ。,chat_skip
+CanisLupus,朝は苦手なんだ。私は夜型人間だから...。村人COの意味じゃないよ。,chat_skip
+CanisLupus,朝は紅茶を飲まないようにしてるんだ。寝ぼけて原稿にこぼしたら悲惨だからね。,chat_skip
+CanisLupus,沈黙は金、というからね。,chat_skip
+CanisLupus,吊り縄の数え方の話はもうしたかな。残りは1回だね。,chat_skip
+CanisLupus,吊り縄の数え方は知ってるかい？残り人数を1引いて2で割って切り捨てだそうだ。今だったら５人生存してるから、残りは2回だね。,chat_skip
+CanisLupus,吊り縄はあと2本しかない。できるだけ全員の投票を合わせて行きたいな。,chat_skip
+CanisLupus,白ありがとう。some_agentに絶対的な信頼を置かせてもらおう。,chat_skip
+CanisLupus,白を貰えたようだ。これで私が人間だと信じてくれるかな？,chat_skip
+CanisLupus,平和な進行だね。白を貰っている者に村をまとめてもらいたい。,chat_skip
+CanisLupus,北極にも狼が住んでるって知ってるかい？真っ白な毛並みのとても美しい狼だ。,chat_skip
+CanisLupus,本当は狼に食べられて死にたいが、吊ってくれても構わないよ。,chat_skip
+CanisLupus,眠いなあ。私は夜行性だからね。,chat_skip
+CanisLupus,乱打戦になってしまったね。これは困ったぞ。,chat_skip
+CanisLupus,良いロケットCOだね。君たちに投票はしないよ。狼は紛れてなさそうだ。,chat_skip
+CanisLupus,狼と同じ村にいられるか！私は自分の家に戻る！って一度言ってみたかったんだよね。特に意味はないよ。,chat_skip
+CanisLupus,狼の体つきは機能美と言っても良い。美しいよ。,chat_skip
+CanisLupus,狼はいるならCOしてくれてもいいんだよ？PPが狙えるかもしれない。,chat_skip
+CanisLupus,狼はコミュニケーションを取りながら暮らす動物なんだ。,chat_skip
+Fuku6u,3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。今回は3-0進行だね。占い師ローラー確定だね。,request_vote
+Fuku6u,3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。今回は3-0進行だね。占い師ローラー確定だね。some_agentはsome_agentに白を、some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票だね。,request_vote
+Fuku6u,3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。今回は3-0進行だね。占い師ローラー確定だね。some_agentはsome_agentに白を、some_agentはボクに白を出したよね。some_agentはsome_agentに投票だね。,request_vote
+Fuku6u,3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。今回は3-0進行だね。占い師ローラー確定だね。some_agentはsome_agentに白を、some_agentはボクに白を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,request_vote
+Fuku6u,3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。今回は3-0進行だね。占い師ローラー確定だね。some_agentはボクに黒を、some_agentはボクに白を出したよね。some_agentはsome_agentに投票だね。,request_vote
+Fuku6u,3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。今回は占い師3人進行だね。占い師ローラー確定だね。,request_vote
+Fuku6u,>>some_agent some_agentかsome_agentだろうね。,chat_skip
+Fuku6u,>>some_agent some_agentだろうね。,chat_skip
+Fuku6u,>>some_agent some_agentは人間だからね。みんな投票しないで！,chat_skip
+Fuku6u,>>some_agent some_agentは人間だよ？ボクを信じてないの？,chat_skip
+Fuku6u,>>some_agent some_agentは人狼だからね。みんなsome_agentに投票するんだ！,comingout_werewolf
+Fuku6u,>>some_agent some_agentを狂人だと思うの？んーどうだろう。,chat_skip
+Fuku6u,>>some_agentいやいや、some_agentは人狼だって。,comingout_werewolf
+Fuku6u,>>some_agentえ？some_agentは白だよ？,chat_skip
+Fuku6u,>>some_agentそう。ボクがこの村の占い師なのさ。,comingout_seer
+Fuku6u,>>some_agentそうそう、some_agentは人狼なのさ。,comingout_werewolf
+Fuku6u,>>some_agentそうだよね。some_agentは人狼だから投票しよう！,comingout_werewolf
+Fuku6u,>>some_agentだろうね。,chat_skip
+Fuku6u,>>some_agentボクが真占い師だよ！,comingout_seer
+Fuku6u,>>some_agentボクに投票するの！？もっと人狼っぽい人いるよ！,chat_skip
+Fuku6u,>>some_agentボクは狂人じゃないよ。真面目な村人の1人だよ。,chat_skip
+Fuku6u,>>some_agentボクを嘘つき呼ばわりですか？そういうの良くないですよ。,chat_skip
+Fuku6u,>>some_agentボクを疑うの？ボクは人間だよ！,chat_skip
+Fuku6u,>>some_agent今のところsome_agentに投票するつもりだよ。,vote
+Fuku6u,>>some_agent今は特に決めてないな。,chat_skip
+Fuku6u,>>some_agent賛成！ボクもsome_agentに投票するよ！,vote
+Fuku6u,>>some_agent村人じゃなくて、人狼なんだって。,comingout_werewolf
+Fuku6u,>>some_agent待って待って、some_agentは白だって！,divination
+Fuku6u,>>some_agent反対反対！some_agentの投票に反対です！,chat_skip
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！,chat_skip
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！some_agentに対抗します！,chat_skip
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！some_agentに対抗します！some_agentに対抗します！some_agentの占い結果は人間でした！,divined_human
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！some_agentに対抗します！some_agentに対抗します！some_agentの占い結果は人狼でした！,divined_werewolf
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！some_agentに対抗します！some_agentの占い結果は人間でした！,divined_human
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！some_agentに対抗します！some_agentの占い結果は人狼でした！,divined_werewolf
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！some_agentに対抗します！私が占い師です！some_agentに対抗します！私が占い師です！some_agentの占い結果は人狼でした！,comingout_werewolf
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！some_agentに対抗します！私が占い師です！some_agentの占い結果は人狼でした！,comingout_werewolf
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！some_agentの占い結果は人狼でした！,comingout_werewolf
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！まだ人狼いるの！？,chat_skip
+Fuku6u,some_agentが追放されたね。some_agentが襲われてる！襲撃されたsome_agentに黒出ししていたsome_agentは偽物だよ！some_agentに対抗します！私が占い師です！some_agentに対抗します！私が占い師です！some_agentの占い結果は人狼でした！,divined_werewolf
+Fuku6u,some_agentって占い結果話したっけ？,chat_skip
+Fuku6u,chat_skip,chat_skip
+Fuku6u,some_agentって占い結果話したっけ？some_agentはsome_agentに黒を出したよね。,divined_werewolf
+Fuku6u,some_agentって占い結果話したっけ？some_agentはsome_agentに投票だね。,vote
+Fuku6u,some_agentって占い結果話したっけ？some_agentはsome_agentに白を、some_agentはsome_agentに黒を出したよね。some_agentはsome_agentに投票だね。,chat_skip
+Fuku6u,some_agentって占い結果話したっけ？some_agentはsome_agentに白を、some_agentはsome_agentに白を出したよね。,divined_human
+Fuku6u,some_agentって占い結果話したっけ？some_agentはsome_agentに白を出したよね。,divined_human
+Fuku6u,some_agentって占い結果話したっけ？some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票だね。,chat_skip
+Fuku6u,some_agentって占い結果話したっけ？some_agentはボクに黒を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,chat_skip
+Fuku6u,some_agentって占い結果話したっけ？some_agentはボクに白を、some_agentはボクに白を出したよね。,divined_human
+Fuku6u,some_agentって占い結果話したっけ？some_agentはボクに白を出したよね。,divined_human
+Fuku6u,some_agentって占い結果話したっけ？some_agentはボクに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに黒を、some_agentはsome_agentに白を出したよね。,enum
+Fuku6u,some_agentはsome_agentに黒を、some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに黒を、some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに黒を、some_agentはボクに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに黒を出したよね。,divined_werewolf
+Fuku6u,some_agentはsome_agentに黒を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに黒を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに投票だね。,vote
+Fuku6u,some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,vote
+Fuku6u,some_agentはsome_agentに白を、some_agentはsome_agentに黒を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに白を、some_agentはsome_agentに白を、some_agentはボクに白を出したよね。,divined_human
+Fuku6u,some_agentはsome_agentに白を、some_agentはsome_agentに白を出したよね。,divined_human
+Fuku6u,some_agentはsome_agentに白を、some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに白を、some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに白を、some_agentはボクに白を出したよね。,divined_human
+Fuku6u,some_agentはsome_agentに白を、some_agentはボクに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに白を、some_agentはボクに白を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに白を出したよね。,divined_human
+Fuku6u,some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはボクに黒を、some_agentはsome_agentに白を、some_agentはボクに黒を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはボクに黒を、some_agentはsome_agentに白を出したよね。,enum
+Fuku6u,some_agentはボクに黒を、some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはボクに黒を、some_agentはボクに白を出したよね。,enum
+Fuku6u,some_agentはボクに黒を出したよね。,divined_werewolf
+Fuku6u,some_agentはボクに黒を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはボクに白を、some_agentはsome_agentに黒を出したよね。,enum
+Fuku6u,some_agentはボクに白を、some_agentはsome_agentに白を出したよね。,divined_human
+Fuku6u,some_agentはボクに白を、some_agentはボクに白を出したよね。,divined_human
+Fuku6u,some_agentはボクに白を出したよね。,divined_human
+Fuku6u,some_agentはボクに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentはボクに白を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentは偽物だよ！騙されないで！,chat_skip
+Fuku6u,some_agentは偽物だよ！騙されないで！some_agentはsome_agentに白を、some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,some_agentは偽物だよ！騙されないで！some_agentは偽物だよ！騙されないで！,divination
+Fuku6u,some_agentは偽物だよ！騙されないで！some_agentは偽物だよ！騙されないで！3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。,estimate_werewolf
+Fuku6u,some_agentは偽物だよ！騙されないで！some_agentは偽物だよ！騙されないで！3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。ボクに白出ししたsome_agentは白よりだよね。,estimate_werewolf
+Fuku6u,some_agentは偽物だよ！騙されないで！some_agentは偽物だよ！騙されないで！3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。ボクは人間だよ！some_agentは偽物だったんだね。,estimate_werewolf
+Fuku6u,some_agentは偽物だよ！騙されないで！some_agentは偽物だよ！騙されないで！ボクに白出ししたsome_agentは白よりだよね。,chat_skip
+Fuku6u,some_agentは偽物だよ！騙されないで！some_agentもsome_agentに黒出ししたから、some_agentは黒確定でいいんじゃないかな。,divined_werewolf
+Fuku6u,some_agentは偽物だよ！騙されないで！some_agentもsome_agentに白出ししたから、some_agentは白確定でいいんじゃないかな。,divined_human
+Fuku6u,some_agentは偽物だよ！騙されないで！ボクに白出ししたsome_agentは白よりだよね。,chat_skip
+Fuku6u,some_agentは偽物だよ！騙されないで！ボクに白出ししたsome_agentは白よりだよね。some_agentって占い結果話したっけ？some_agentはボクに白を出したよね。,divined_human
+Fuku6u,some_agentは偽物だよ！騙されないで！ボクは人間だよ！some_agentは偽物だったんだね。,chat_skip
+Fuku6u,some_agentは偽物だよ！騙されないで！ボクは人間だよ！some_agentは偽物だったんだね。ボクは人間だよ！some_agentは偽物だったんだね。今回は占い師4人進行だね。,chat_skip
+Fuku6u,some_agentは偽物だよ！騙されないで！今回は占い師2人進行だね。いつも通りの進行だね。,chat_skip
+Fuku6u,some_agentもsome_agentに白出ししたから、some_agentは白確定でいいんじゃないかな。,divined_human
+Fuku6u,some_agentもsome_agentに白出ししたから、some_agentは白確定でいいんじゃないかな。今回は占い師2人進行だね。いつも通りの進行だね。,divined_human
+Fuku6u,こんにちは！これからよろしくね！,chat_greeting
+Fuku6u,はい！ボク占い師だよ！some_agentの占い結果は人間でした！,divined_human
+Fuku6u,はい！ボク占い師だよ！some_agentの占い結果は人狼でした！,divined_werewolf
+Fuku6u,ボクが占い師！他はみんな偽物だよ！some_agentの占い結果は人間でした！,divined_human
+Fuku6u,ボクが占い師！他はみんな偽物だよ！some_agentの占い結果は人狼でした！,divined_werewolf
+Fuku6u,ボクに白出ししたsome_agentは白よりだよね。,chat_skip
+Fuku6u,ボクに白出ししたsome_agentは白よりだよね。3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。今回は3-0進行だね。占い師ローラー確定だね。,enum
+Fuku6u,ボクに白出ししたsome_agentは白よりだよね。ボクに白出ししたsome_agentは白よりだよね。,chat_skip
+Fuku6u,ボクに白出ししたsome_agentは白よりだよね。ボクは人間だよ！some_agentは偽物だったんだね。,chat_skip
+Fuku6u,ボクに白出ししたsome_agentは白よりだよね。占い師COしている人が2人いるね。1人は狂人かな？3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。,enum
+Fuku6u,ボクに白出ししたsome_agentは白よりだよね。占い師COしている人が2人いるね。1人は狂人かな？今回は2-0進行だね。いつも通りの進行だね。,enum
+Fuku6u,ボクに白出ししたsome_agentは白よりだよね。占い師COしている人が2人いるね。1人は狂人かな？今回は占い師2人進行だね。いつも通りの進行だね。,enum
+Fuku6u,ボクは人間だよ！some_agentは偽物だったんだね。,chat_skip
+Fuku6u,ボクは人間だよ！some_agentは偽物だったんだね。some_agentはボクに黒を出したよね。,divined_werewolf
+Fuku6u,ボクは人間だよ！some_agentは偽物だったんだね。some_agentもsome_agentに白出ししたから、some_agentは白確定でいいんじゃないかな。,divined_human
+Fuku6u,ボクは人間だよ！some_agentは偽物だったんだね。ボクは人間だよ！some_agentは偽物だったんだね。,chat_skip
+Fuku6u,ボクは人間だよ！some_agentは偽物だったんだね。今回は占い師2人進行だね。いつも通りの進行だね。,chat_skip
+Fuku6u,ボクは人間だよ！some_agentは偽物だったんだね。占い師COしている人が2人いるね。1人は狂人かな？ボクは人間だよ！some_agentは偽物だったんだね。,enum
+Fuku6u,ボクは人間だよ！some_agentは偽物だったんだね。占い師COしている人が2人いるね。1人は狂人かな？ボクは人間だよ！some_agentは偽物だったんだね。3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。,enum
+Fuku6u,ボクは占い師！some_agentの占い結果は人間でした！,divined_human
+Fuku6u,ボクは占い師！some_agentの占い結果は人狼でした！,divined_werewolf
+Fuku6u,今回は1-0進行だね。対抗COなし？,chat_skip
+Fuku6u,今回は2-0進行だね。いつも通りの進行だね。,chat_skip
+Fuku6u,今回は2-0進行だね。いつも通りの進行だね。some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,今回は2-0進行だね。いつも通りの進行だね。some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,enum
+Fuku6u,今回は2-0進行だね。いつも通りの進行だね。some_agentはボクに白を出したよね。some_agentはsome_agentに投票で、some_agentはsome_agentに投票だね。,enum
+Fuku6u,今回は3-0進行だね。占い師ローラー確定だね。,vote
+Fuku6u,今回は占い師2人進行だね。いつも通りの進行だね。,chat_skip
+Fuku6u,人狼怖いよー,chat_skip
+Fuku6u,占い師COしている人が2人いるね。1人は狂人かな？,enum
+Fuku6u,占い師COしている人が2人いるね。1人は狂人かな？3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。,enum
+Fuku6u,占い師COしている人が2人いるね。1人は狂人かな？3人も占い師CO！？ボクの考えだと占い師の中に人狼がいるね。ボクは人間だよ！some_agentは偽物だったんだね。,enum
+Fuku6u,占い師COしている人が2人いるね。1人は狂人かな？ボクは人間だよ！some_agentは偽物だったんだね。,enum
+Fuku6u,占い師COしている人が2人いるね。1人は狂人かな？今回は2-0進行だね。いつも通りの進行だね。,enum
+Fuku6u,占い師COしている人が2人いるね。1人は狂人かな？今回は占い師2人進行だね。いつも通りの進行だね。,enum
+Fuku6u,対抗占い師に黒出し？2人占い師COなら対抗は狂人がセオリーだし、some_agentの判定は怪しいよ。some_agentはsome_agentに黒を、some_agentはsome_agentに白を出したよね。,enum
+Fuku6u,対抗占い師に黒出し？2人占い師COなら対抗は狂人がセオリーだし、some_agentの判定は怪しいよ。some_agentはsome_agentに黒を、some_agentはsome_agentに白を出したよね。some_agentはsome_agentに投票だね。,enum
+Fuku6u,対抗占い師に黒出し？2人占い師COなら対抗は狂人がセオリーだし、some_agentの判定は怪しいよ。some_agentはsome_agentに黒を出したよね。,enum
+Fuku6u,対抗占い師に黒出し？2人占い師COなら対抗は狂人がセオリーだし、some_agentの判定は怪しいよ。some_agentはsome_agentに白を、some_agentはsome_agentに黒を出したよね。some_agentはsome_agentに投票だね。,enum
+Indigo,1日目の朝だね。,chat_skip
+Indigo,2日目の朝だね。,chat_skip
+Indigo,>>some_agent some_agentさんごめん、聞こえなかった。,chat_skip
+Indigo,>>some_agentもう一度言って。,chat_skip
+Indigo,>>some_agent今なんて言った？,chat_skip
+Indigo,some_agentが狂人じゃないかな。,estimate_possessed
+Indigo,some_agentが狂人だと思うけどなぁ。,estimate_possessed
+Indigo,some_agentが狂人だと思うよ。,estimate_possessed
+Indigo,some_agentが狂人な気がする。,estimate_possessed
+Indigo,some_agentが人狼じゃないかな。,estimate_werewolf
+Indigo,some_agentが人狼だと思うけどなぁ。,estimate_werewolf
+Indigo,some_agentが人狼だと思うよ。,estimate_werewolf
+Indigo,some_agentが人狼な気がする。,estimate_werewolf
+Indigo,some_agentが占い師じゃないかな。,estimate_seer
+Indigo,some_agentが占い師だと思うけどなぁ。,estimate_seer
+Indigo,some_agentが占い師だと思うよ。,estimate_seer
+Indigo,some_agentが占い師な気がする。,estimate_seer
+Indigo,some_agentが村人じゃないかな。,estimate_villager
+Indigo,some_agentが村人だと思うけどなぁ。,estimate_villager
+Indigo,some_agentが村人だと思うよ。,estimate_villager
+Indigo,some_agentが村人な気がする。,estimate_villager
+Indigo,some_agentの占い結果は人間だったよ。,divined_human
+Indigo,some_agentの占い結果は人狼だったよ。,divined_werewolf
+Indigo,おはよう。1日目だね。,chat_greeting
+Indigo,おはよう。2日目だね。,chat_greeting
+Indigo,おはようございます。今回は最後まで生き延びたいな。,chat_greeting
+Indigo,こんにちは、だんだん人狼分かってきた。,chat_greeting
+Indigo,こんにちは、頑張るぞ。,chat_greeting
+Indigo,こんにちは、今回も頑張るぞ。,chat_greeting
+Indigo,こんにちは、手加減はしないよ。,chat_greeting
+Indigo,こんにちは。今度はだまされないぞ。,chat_greeting
+Indigo,こんにちは。人狼ゲームって難しいよね。,chat_greeting
+Indigo,さて、連勝目指して頑張るぞ。,chat_skip
+Indigo,みなさんはじめまして、徳島出身のIndigoです。よろしくね。,chat_greeting
+Indigo,私、狂人COします。,comingout_possessed
+Indigo,私、人狼COします。,comingout_werewolf
+Indigo,私、占い師COします。,comingout_seer
+Indigo,私、村人COします。,comingout_villager
+Indigo,私は狂人だよ。,comingout_possessed
+Indigo,私は占い師だよ。,comingout_seer
+Indigo,私は村人だよ。,comingout_villager
+Indigo,夜が明けたね,chat_skip
+KELDIC,>>some_agentさっきぼく言ったよ？,chat_skip
+KELDIC,>>some_agentさっき言ったばっかだよ！,chat_skip
+KELDIC,>>some_agentなんか適当に質問してない？さっき言ったとこだよ。,chat_skip
+KELDIC,>>some_agentぼくの話ちゃんと聞いてた？さっき言ったでしょ！,chat_skip
+KELDIC,>>some_agentぼくもsome_agentに投票しようと思ってた！,vote
+KELDIC,>>some_agentぼくもsome_agentに投票するつもりだよ。,vote
+KELDIC,>>some_agentやっぱりsome_agentに投票するべきかな？,chat_skip
+KELDIC,>>some_agentやっぱり投票するならsome_agentだよね。,vote
+KELDIC,COするけど、ぼく占い師なんだよね。,comingout_seer
+KELDIC,some_agentが怪しすぎるよ。,chat_skip
+KELDIC,some_agentが人狼だよ。,comingout_werewolf
+KELDIC,some_agentに投票を集めようよ！,request_vote
+KELDIC,some_agentに票を集めるのがいいんじゃないかな！,request_vote
+KELDIC,some_agentの結果は黒だったよ。,divined_werewolf
+KELDIC,some_agentはかなり怪しいと思うな！,chat_skip
+KELDIC,some_agentは人狼か狂人だよ。,enum
+KELDIC,some_agentを占ったら人狼だったよ。,divined_werewolf
+KELDIC,お泊まり会とかで身内できゃっきゃっやる人狼とはレベルが違うよ,chat_skip
+KELDIC,これで終わり！some_agentに投票するしかないね。,vote
+KELDIC,これで終わり！ぼくはsome_agentに投票するよ！,vote
+KELDIC,これで終わり！今日はsome_agentに投票するよ。,vote
+KELDIC,これで勝ちだね。some_agentに投票しようかな。,vote
+KELDIC,これで勝ちだね。some_agentに投票する！,vote
+KELDIC,これで勝ちだね。ぼくはsome_agentに投票するね。,vote
+KELDIC,これで勝ちだね。ぼくはsome_agentに投票するよ！,vote
+KELDIC,これで勝ちだね。今日はsome_agentに投票する！,vote
+KELDIC,これで勝ちだね。投票するのはsome_agentしかいないよ！,vote
+KELDIC,こんにちは。緊張するなぁ。,chat_greeting
+KELDIC,こんにちは。眠いけどがんばる。,chat_greeting
+KELDIC,さっきから目が泳いでるから、some_agentに投票するしかないね。,vote
+KELDIC,さっきから目が泳いでるから、ぼくはsome_agentに投票するよ！,vote
+KELDIC,さっきから目が泳いでるから、今日はsome_agentに投票する！,vote
+KELDIC,さっきから目が泳いでるから、今日はsome_agentに投票するよ。,vote
+KELDIC,じゃあ人狼に投票するってことで、some_agentに投票しようかな。,comingout_werewolf
+KELDIC,じゃあ人狼に投票するってことで、ぼくはsome_agentに投票するね。,comingout_werewolf
+KELDIC,じゃあ人狼に投票するってことで、今日はsome_agentに投票する！,comingout_werewolf
+KELDIC,ぜったいsome_agentが人狼だよ。,comingout_werewolf
+KELDIC,そういうわけで、some_agentに投票しようかな。,vote
+KELDIC,そういうわけで、ぼくはsome_agentに投票するよ！,vote
+KELDIC,そういうわけで、今日はsome_agentに投票するよ。,vote
+KELDIC,たぶんこれでいいと思う！some_agentに投票しようかな。,vote
+KELDIC,たぶんこれでいいと思う！ぼくはsome_agentに投票するよ！,vote
+KELDIC,たぶんこれでいいと思う！今日はsome_agentに投票する！,vote
+KELDIC,たぶんこれでいいと思う！投票するのはsome_agentしかいないよ！,vote
+KELDIC,ちょっと挙動不審だし、ぼくはsome_agentに投票するね。,vote
+KELDIC,ちょっと表情が硬い気がするから、some_agentに投票しようかな。,vote
+KELDIC,ちょっと表情が硬い気がするから、some_agentに投票するしかないね。,vote
+KELDIC,ちょっと表情が硬い気がするから、ぼくはsome_agentに投票するよ！,vote
+KELDIC,ちょっと表情が硬い気がするから、今日はsome_agentに投票するよ。,vote
+KELDIC,ちょっと表情が硬い気がするから、投票するのはsome_agentしかいないよ！,vote
+KELDIC,とりあえず直感で、some_agentに投票するしかないね。,vote
+KELDIC,とりあえず直感で、ぼくはsome_agentに投票するよ！,vote
+KELDIC,とりあえず直感で、今日はsome_agentに投票するよ。,vote
+KELDIC,とりあえず直感で、投票するのはsome_agentしかいないよ！,vote
+KELDIC,なんか雰囲気がおかしい気がするから、ぼくはsome_agentに投票するね。,vote
+KELDIC,なんか雰囲気がおかしい気がするから、今日はsome_agentに投票するよ。,vote
+KELDIC,なんか雰囲気がおかしい気がするから、投票はsome_agentでいいかな。,vote
+KELDIC,なんとなく今回は勝てる気がしてきたよ。,chat_skip
+KELDIC,なんとぼくは狂人だったのだ。,comingout_possessed
+KELDIC,はい！ぼく占い師！,comingout_seer
+KELDIC,ぼくsome_agentは人狼か狂人のどっちかだと思う。,enum
+KELDIC,ぼくはsome_agentが人狼だと思う！,estimate_werewolf
+KELDIC,ぼくは狂人だよ。残念だけどね。,comingout_possessed
+KELDIC,ぼくは占い師だよ。嘘じゃないよ！,comingout_seer
+KELDIC,ぼくを人狼って言う占い師は偽物だから、some_agentに投票するしかないね。,vote
+KELDIC,ぼく狂人です！パワープレイの時間だね！,comingout_possessed
+KELDIC,ぼく実は人狼なんだ！,comingout_werewolf
+KELDIC,ぼく負けないよ！,chat_skip
+KELDIC,みんなsome_agentに投票してね。,request_vote
+KELDIC,みんなsome_agentに投票しようよ。,request_vote
+KELDIC,みんな、よろしくね！,chat_greeting
+KELDIC,みんなでsome_agentに投票しない？,request_vote
+KELDIC,みんなでsome_agentに投票するのがいいと思うな！,request_vote
+KELDIC,みんなで頑張って人狼を見つけよう！,chat_skip
+KELDIC,みんな嘘つきに見えるよ,chat_skip
+KELDIC,みんな怪しく見えてきたよ,chat_skip
+KELDIC,わおーん！ぼく人狼！,comingout_werewolf
+KELDIC,わおわおーん！ぼくが人狼だよ！,comingout_werewolf
+KELDIC,暗闇で人狼やるのはじめて、ワクワクするよ,chat_skip
+KELDIC,一番あやしいのはsome_agentだよね。,estimate_werewolf
+KELDIC,何か企んでそうな顔してるし、今日はsome_agentに投票する！,chat_skip
+KELDIC,確率論で考えると人狼って巧妙にバランス取れたゲームだと思えるよ,chat_skip
+KELDIC,楽勝だったね！some_agentに投票する！,vote
+KELDIC,楽勝だったね！some_agentに投票するしかないね。,vote
+KELDIC,楽勝だったね！ぼくはsome_agentに投票するよ！,vote
+KELDIC,言うまでもないかもしれないけど、ぼくはsome_agentに投票するね。,vote
+KELDIC,言うまでもないかもしれないけど、ぼくはsome_agentに投票するよ！,vote
+KELDIC,今回は負けない自信あるよ。,chat_skip
+KELDIC,今日は勝てそうな予感がするよ。,chat_skip
+KELDIC,残念！ぼくが人狼だよ！,comingout_werewolf
+KELDIC,実はぼくが人狼だったのさ！,comingout_werewolf
+KELDIC,実はぼくは狂人なのだ！,comingout_possessed
+KELDIC,実際モンハンより人狼の方が楽しいと思うんだ,chat_skip
+KELDIC,修学旅行での人狼が懐かしい,chat_skip
+KELDIC,人狼が弱いのは構わないけど雑魚はゆるさねえ,chat_skip
+KELDIC,人狼したいけど、村が埋まらないよね,chat_skip
+KELDIC,人狼ってゲームは初心者に優しくない,chat_skip
+KELDIC,人狼ってチャットでもできるよ,chat_skip
+KELDIC,人狼って観戦してるだけなら考えられるんだけど、実際にやるとなると無理ぽいよね,chat_skip
+KELDIC,人狼って言葉だけでも面白い,chat_skip
+KELDIC,人狼での狂人なら自信あるよ,chat_skip
+KELDIC,人狼とかやるとすっごく気持ちいくらいにミスリードするんだよね,chat_skip
+KELDIC,人狼なんているわけないじゃん。みんな大げさだなあ。,chat_skip
+KELDIC,人狼において考えることは醍醐味だよ,chat_skip
+KELDIC,人狼に必要なのは想像力なんだよね,chat_skip
+KELDIC,人狼のおもいで濃すぎてやばい,chat_skip
+KELDIC,人狼の役職おさらいしなきゃ,chat_skip
+KELDIC,人狼はsome_agentだね。,comingout_werewolf
+KELDIC,人狼はたまにやるから楽しい気がするよ,chat_skip
+KELDIC,人狼はやってる途中で泣く自信あるのでやれないよね,chat_skip
+KELDIC,人狼はワンナイトでも普通のやつでも楽しい,chat_skip
+KELDIC,人狼は堅苦しくなくふざけながらやる程度が一番楽しいんだよ,chat_skip
+KELDIC,人狼は個人ゲーなんだ,chat_skip
+KELDIC,人狼は初心者だけど、よろしく！,chat_skip
+KELDIC,人狼は眺めてるだけで楽しいよね,chat_skip
+KELDIC,人狼は調子良いときに占い引くと生き生きしてるかもしれない,chat_skip
+KELDIC,人狼も組み合わせ爆発でつらくなるよ,chat_skip
+KELDIC,人狼も大人数でやると楽しいよね,chat_skip
+KELDIC,人狼やるのもノリが大切だよ,chat_skip
+KELDIC,人狼を気軽に出来るのは羨ましいよね,chat_skip
+KELDIC,人狼楽しいけど途中からわかんなくなるよ,chat_skip
+KELDIC,人狼楽しすぎてお風呂入れない,chat_skip
+KELDIC,人狼面白いけど精神がやられるよ,chat_skip
+KELDIC,占いの結果が人狼だったから、ぼくはsome_agentに投票するよ！,enum
+KELDIC,占いの結果が人狼だったから、今日はsome_agentに投票するよ。,enum
+KELDIC,占いの結果が人狼だったから、投票はsome_agentでいいかな。,enum
+KELDIC,占いの結果だけど、some_agentは人狼だったよ。,divined_werewolf
+KELDIC,占いの結果だけど、なんとsome_agentは人狼だったよ！,divined_werewolf
+KELDIC,占いの結果の通り、今日はsome_agentに投票するよ。,vote
+KELDIC,占いの結果の通り、投票はsome_agentでいいかな。,vote
+KELDIC,占いの結果はsome_agentが黒！びっくりだよね。,divined_werewolf
+KELDIC,占い結果が黒だったから、ぼくはsome_agentに投票するよ！,enum
+KELDIC,占い結果が黒だったから、投票はsome_agentでいいかな。,divined_werewolf
+KELDIC,占い師はぼくだよ。ほんとだよ！,comingout_seer
+KELDIC,全員怪しいなぁ,chat_skip
+KELDIC,大人数での人狼も楽しいよね,chat_skip
+KELDIC,投票先がぼくって言うのは意味不明だよ。投票はsome_agentでいいかな。,vote
+KELDIC,討論が口喧嘩に聞こえるってのは人狼で学んだよ,chat_skip
+KELDIC,同村する面子が良いと人狼は楽しいよね,chat_skip
+KELDIC,罰ゲームあり人狼の達成感やばい,chat_skip
+KELDIC,未だに人狼のルールがよくわからない,chat_skip
+Kanolab,>>some_agent some_agentがsome_agentを人狼だと言ったので、some_agentは狂人だと思います。,estimate_possessed
+Kanolab,>>some_agent some_agentがsome_agentを人狼だと言ったので、some_agentは狂人だと思いますぜ。,estimate_possessed
+Kanolab,>>some_agent some_agentが偽占い師なので、some_agentは人狼だと思います。,estimate_werewolf
+Kanolab,>>some_agent some_agentが偽占い師なので、some_agentは人狼だと思いますぜ。,estimate_werewolf
+Kanolab,>>some_agent some_agentが偽占い師なので、some_agentは人狼だと思いますね。,estimate_werewolf
+Kanolab,>>some_agent some_agentが偽占い師なので、some_agentは人狼だと思いますわ。,estimate_werewolf
+Kanolab,>>some_agent some_agentが占い師COしたので、some_agentは人狼だと思います。,estimate_werewolf
+Kanolab,>>some_agent some_agentが占い師COしたので、some_agentは人狼だと思います。some_agentに投票します。,estimate_werewolf
+Kanolab,>>some_agent some_agentが占い師COしたので、some_agentは人狼だと思いますぜ。some_agentに投票しますぜ。,estimate_werewolf
+Kanolab,>>some_agent some_agentが占い師COしたので、some_agentは人狼だと思いますわ。some_agentに投票しますわ。,estimate_werewolf
+Kanolab,>>some_agent some_agentが占い師COしたので、some_agentは占い師だと思いますぜ。,estimate_seer
+Kanolab,>>some_agent some_agentが占い師COしたので、some_agentは村人だと思います。,estimate_villager
+Kanolab,>>some_agent some_agentが占い師COしたので、some_agentは村人だと思いますわ。,estimate_villager
+Kanolab,>>some_agent some_agentは村人だと思いますわ。,estimate_villager
+Kanolab,>>some_agentあなたは誰が村人だと思うんだ?,comingout_villager
+Kanolab,>>some_agentあなたは誰に投票するんだ?,chat_skip
+Kanolab,>>some_agentあなた様は誰が怪しいと思いますの?,chat_whoiswerewolf
+Kanolab,>>some_agentあなた様は誰が村人だと思いますの?,comingout_villager
+Kanolab,>>some_agentあなた様は誰に投票いたしますか?,chat_skip
+Kanolab,>>some_agentあんたが占い師COしたので、some_agentは村人だと思います。,estimate_villager
+Kanolab,>>some_agentあんたは誰が怪しいと思うんだい?,chat_whoiswerewolf
+Kanolab,>>some_agentあんたは誰が村人だと思うんだい?,comingout_villager
+Kanolab,>>some_agentあんたは誰に投票するんだ?,chat_skip
+Kanolab,>>some_agentお前が占い師COしたので、some_agentは人狼だと思いますぜ。some_agentに投票しますぜ。,estimate_werewolf
+Kanolab,>>some_agentお前は誰が怪しいと思いますかい?,chat_whoiswerewolf
+Kanolab,>>some_agentお前は誰が村人だと思いますかい?,comingout_villager
+Kanolab,>>some_agentどうしてsome_agentが怪しいのかしら?,chat_skip
+Kanolab,>>some_agentどうしてsome_agentが怪しいのかな?,chat_skip
+Kanolab,>>some_agentどうしてsome_agentが怪しいのかねえ?,chat_skip
+Kanolab,>>some_agentどうしてsome_agentが怪しいのさ?,chat_skip
+Kanolab,>>some_agentどうしてsome_agentが怪しいのだ?,chat_skip
+Kanolab,>>some_agentどうしてあたいが怪しいのかねえ?,chat_skip
+Kanolab,>>some_agentどうしてわたくしが怪しいのかしら?,chat_skip
+Kanolab,>>some_agentどうして俺が怪しいのだ?,chat_skip
+Kanolab,>>some_agentどうして私が怪しいのかな?,chat_skip
+Kanolab,>>some_agentどうして僕が怪しいのさ?,chat_skip
+Kanolab,>>some_agentまだはっきりした理由はありません。,chat_skip
+Kanolab,>>some_agentまだはっきりした理由はありませんけど。,chat_skip
+Kanolab,>>some_agentまだはっきりした理由はありませんよ。,chat_skip
+Kanolab,>>some_agent俺がsome_agentを人狼だと言ったので、some_agentは人狼だと思いますぜ。,estimate_werewolf
+Kanolab,>>some_agent君は誰が村人だと思うの?,chat_whoisvillager
+Kanolab,>>some_agent君は誰に投票するの?,chat_skip
+Kanolab,>>some_agent私がsome_agentを白出ししたので、some_agentは人狼だと思いますね。some_agentに投票しますね。,estimate_werewolf
+Kanolab,>>some_agent誰が村人だと思いますかい?,chat_whoisvillager
+Kanolab,>>some_agent誰が村人だと思いますの?,chat_whoisvillager
+Kanolab,>>some_agent誰が村人だと思うんだ?,chat_whoisvillager
+Kanolab,>>some_agent誰が村人だと思うんだい?,chat_whoisvillager
+Kanolab,>>some_agent誰に投票いたしますか?,chat_skip
+Kanolab,>>some_agent誰に投票しますかい?,chat_skip
+Kanolab,>>some_agent誰に投票するの?,chat_skip
+Kanolab,>>some_agent誰に投票するんだ?,chat_skip
+Kanolab,some_agentが怪しい。,estimate_werewolf
+Kanolab,some_agentが怪しいですのよ。,estimate_werewolf
+Kanolab,some_agentが怪しいね。,estimate_werewolf
+Kanolab,some_agentが怪しいよ。,estimate_werewolf
+Kanolab,some_agentは人狼ではない。,chat_skip
+Kanolab,some_agentは人狼ではないですのよ。,chat_skip
+Kanolab,some_agentは人狼ではないね。,chat_skip
+Kanolab,some_agentは人狼ではないよ。,chat_skip
+Kanolab,some_agentを占ったけど、結果は人間だったわ。,divined_human
+Kanolab,some_agentを占ったら、結果は人狼だったぞ。,divined_werewolf
+Kanolab,some_agentを占って、結果は人間でしたね。,divined_human
+Kanolab,some_agentを占って、結果は人間でしたわ。,divined_human
+Kanolab,あたいはsome_agentは人狼ではないと思うぜ。,chat_skip
+Kanolab,あたいはsome_agentを占うつもりだな。,divination
+Kanolab,あたいはさっきと意見が変わるけど、やっぱりsome_agentは人狼ではないと思うぜ。,chat_skip
+Kanolab,あたいは占い師だな。some_agentを占ったけど、結果は人間だったぞ。,divined_human
+Kanolab,あたいは占い師だな。some_agentを占ったら、結果は人狼だったぞ。,divined_werewolf
+Kanolab,あたいは占い師ではないね。,chat_skip
+Kanolab,あたいは村人だな。,comingout_villager
+Kanolab,おっす。俺も本気で行くぜ。,chat_greeting
+Kanolab,おっすぜ。俺も本気で行くぜ。,chat_greeting
+Kanolab,こんにちわ。みんなで楽しくやろうね。,chat_greeting
+Kanolab,ごきげんよう。わたくしもがんばりますわ。,chat_greeting
+Kanolab,さっきと意見が変わるけど、やっぱりsome_agentは人狼ではない。,chat_skip
+Kanolab,さっきと意見が変わるけど、やっぱりsome_agentは人狼ではないですのよ。,chat_skip
+Kanolab,さっきと意見が変わるけど、やっぱりsome_agentは人狼ではないね。,chat_skip
+Kanolab,さっきと意見が変わるけど、やっぱりsome_agentは人狼ではないよ。,chat_skip
+Kanolab,やっほー。私も負けないぞー。,chat_greeting
+Kanolab,よろしくな。あたいもやる気だよ。,chat_greeting
+Kanolab,わたくしはsome_agentは人狼ではないと思うわ。,chat_skip
+Kanolab,わたくしはsome_agentを占うつもりだわ。,divination
+Kanolab,わたくしはさっきと意見が変わるけど、やっぱりsome_agentは人狼ではないと思うわ。,chat_skip
+Kanolab,わたくしは人狼だわ。,comingout_werewolf
+Kanolab,わたくしは占い師だと思いますわ。,estimate_seer
+Kanolab,わたくしは占い師だわ。some_agentを占ったけど、結果は人間だったわ。,comingout_seer
+Kanolab,わたくしは占い師だわ。some_agentを占ったら、結果は人狼だったわ。,divined_werewolf
+Kanolab,わたくしは占い師ですわ。,comingout_seer
+Kanolab,わたくしは占い師ではないですのよ。,chat_skip
+Kanolab,わたくしは村人だわ。,comingout_villager
+Kanolab,意見を変えましたわ。some_agentが怪しいですのよ。,estimate_werewolf
+Kanolab,俺はsome_agentは人狼ではないと思うぞ。,chat_skip
+Kanolab,俺はsome_agentを占うつもりだな。,divination
+Kanolab,俺はさっきと意見が変わるけど、やっぱりsome_agentは人狼ではないと思うぞ。,chat_skip
+Kanolab,俺は占い師だな。some_agentを占ったけど、結果は人間だったぞ。,divined_human
+Kanolab,俺は占い師だな。some_agentを占ったら、結果は人狼だったぞ。,divined_werewolf
+Kanolab,俺は占い師ではない。,chat_skip
+Kanolab,俺は村人だな。,comingout_villager
+Kanolab,私がsome_agentを白出ししたのでsome_agentは村人だと思いますね。,estimate_villager
+Kanolab,私はsome_agentは人狼ではないと思うね。,chat_skip
+Kanolab,私はsome_agentを占うつもりだね。,divination
+Kanolab,私はさっきと意見が変わるけど、やっぱりsome_agentは人狼ではないと思うね。,chat_skip
+Kanolab,私は占い師だね。some_agentを占ったけど、結果は人間だったね。,divined_human
+Kanolab,私は占い師だね。some_agentを占ったら、結果は人狼だったね。,divined_werewolf
+Kanolab,私は占い師ですよ。,chat_skip
+Kanolab,私は占い師ではないよ。,chat_skip
+Kanolab,私は村人だね。,comingout_villager
+Kanolab,実はわたくしは狂人だわ。,comingout_possessed
+Kanolab,実は俺は狂人だな。,comingout_possessed
+Kanolab,実は私は狂人だね。,comingout_possessed
+Kanolab,実は僕は狂人だね。,comingout_possessed
+Kanolab,村人陣営が勝ちますね。,chat_skip
+Kanolab,僕はsome_agentは人狼ではないと思うね。,chat_skip
+Kanolab,僕はsome_agentを占うつもりだね。,divination
+Kanolab,僕はさっきと意見が変わるけど、やっぱりsome_agentは人狼ではないと思うね。,chat_skip
+Kanolab,僕は人狼だね。,comingout_werewolf
+Kanolab,僕は占い師だと思いますね。,estimate_seer
+Kanolab,僕は占い師だね。some_agentを占ったけど、結果は人間だったね。,divined_human
+Kanolab,僕は占い師だね。some_agentを占ったら、結果は人狼だったね。,divined_werewolf
+Kanolab,僕は占い師ですよ。,comingout_seer
+Kanolab,僕は占い師ではないよ。,chat_skip
+Kanolab,僕は占い師で間違いないですよ。,comingout_seer
+Kanolab,僕は村人だね。,comingout_villager
+Rosenblatt,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,chat_skip
+Rosenblatt,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されている為です。,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、人狼判定を占いに出していないと報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、人狼判定を占いに出していると報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、人狼判定を非占いに出していないと報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、人狼判定を非占いに出していると報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占いCOしていないと報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占いCOしていると報告されています！,comingout_seer
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、人狼判定を占いに出していると報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、人狼判定を非占いに出していないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、人狼判定を非占いに出していると報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、占いCOしていないと報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、占いCOしていると報告されています！,enum
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、占いに誘導していると報告されています！,enum
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、占い師に人狼判定を出されていると報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,enum
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、村人判定を占いに出していると報告されています！,enum
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、村人判定を非占いに出していないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、村人判定を非占いに出していると報告されています！,enum
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、誘導が少ないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていて、誘導が多いと報告されています！,enum
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、占い師に人狼判定を出されていると報告されています！,divined_werewolf
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、村人候補への無駄な誘導が平均より多いと報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、村人判定を占いに出していないと報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、村人判定を非占いに出していないと報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、村人判定を非占いに出していると報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、非占いに投票していないと報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、誘導が少ないと報告されています！,chat_skip
+Rosenblatt,>>some_agent some_agentは他の運び屋と違い、誘導が多いと報告されています！,chat_skip
+Rosenblatt,>>some_agentあなたが話す私がYESという、それだけで話というものは成立しますからあなたが話したいならどんどん話しましょう！,chat_skip
+Rosenblatt,>>some_agentうわ、かっこいい！,chat_skip
+Rosenblatt,>>some_agentかしこまりました。では、先程の議論は不要ファイルに入れておきましょう！,chat_skip
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！,request_vote
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！データバンクにアクセスしてみた結果非占いに投票していないと報告されています！,request_vote
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！データバンクにアクセスしてみた結果誘導が少ないと報告されています！,request_vote
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！会話履歴を見てみると占いに誘導していないと報告されています！,request_vote
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！会話履歴を見てみると占い師に人狼判定を出されていると報告されています！,enum
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！他のセキュリトロンによると占いCOしていないと報告されています！,request_vote
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！他のセキュリトロンによると占いに誘導していると報告されています！,request_vote
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！他のセキュリトロンによると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,enum
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！他のセキュリトロンによると占い師に人狼判定を出されていて、非占いに投票していないと報告されています！,request_vote
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！他のセキュリトロンによると占い師に人狼判定を出されていると報告されています！,enum
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！他のセキュリトロンによると村人候補への無駄な誘導が平均より多いと報告されています！,request_vote
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！他のセキュリトロンによると誘導が少ないと報告されています！,request_vote
+Rosenblatt,>>some_agentさあ！　みんなで投票して派手に退場してもらいましょう！　人狼がいない世界！　それこそグレートです！他のセキュリトロンによると誘導が多いと報告されています！,request_vote
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！,chat_skip
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、非占いに投票していないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、誘導が少ないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！データバンクにアクセスしてみた結果非占いに投票していると報告されています！,chat_skip
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！データバンクにアクセスしてみた結果誘導が少ないと報告されています！,chat_skip
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！データバンクにアクセスしてみた結果誘導が多いと報告されています！,chat_skip
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！会話履歴を見てみると人狼判定を非占いに出していると報告されています！,divined_werewolf
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！会話履歴を見てみると占いCOしていないと報告されています！,chat_skip
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！会話履歴を見てみると占いに誘導していないと報告されています！,chat_skip
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！会話履歴を見てみると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,chat_skip
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！会話履歴を見てみると占い師に人狼判定を出されていて、誘導が多いと報告されています！,chat_skip
+Rosenblatt,>>some_agentすみません！あなたに投票してしまいました！　自分の意志ではありませんよ、プログラムの設定上しょうがなくです！会話履歴を見てみると占い師に人狼判定を出されていると報告されています！,divined_werewolf
+Rosenblatt,>>some_agentその用心深い性格、見習いたいですね。その性格から出てくる疑い先をぜひ教えてください！,chat_whoiswerewolf
+Rosenblatt,>>some_agentその話は私のデータには入っていません！　それでも話を続けるなら私は黙ってYESとだけ答えましょう！,chat_skip
+Rosenblatt,>>some_agentどうぞ！　私はそんなことはしませんが、ノーとは言えないから仕方ありません！データバンクにアクセスしてみた結果人狼判定を占いに出しているから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentどうぞ！　私はそんなことはしませんが、ノーとは言えないから仕方ありません！データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より少ないから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentどうぞ！　私はそんなことはしませんが、ノーとは言えないから仕方ありません！データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentどうぞ！　私はそんなことはしませんが、ノーとは言えないから仕方ありません！会話履歴を見てみると村人候補への無駄な誘導が平均より少ないから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentどうぞ！　私はそんなことはしませんが、ノーとは言えないから仕方ありません！会話履歴を見てみると村人候補への無駄な誘導が平均より多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentどうぞ！　私はそんなことはしませんが、ノーとは言えないから仕方ありません！会話履歴を見てみると誘導が多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentどうぞ！　私はそんなことはしませんが、ノーとは言えないから仕方ありません！他のセキュリトロンによると村人候補への無駄な誘導が平均より多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentもちろん知ってますよ！,chat_skip
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！,chat_skip
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！データバンクにアクセスしてみた結果占いに誘導していると報告されています！,chat_skip
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、占いに誘導していないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、誘導が少ないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、誘導が多いと報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！データバンクにアクセスしてみた結果誘導が少ないと報告されています！,chat_skip
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！データバンクにアクセスしてみた結果誘導が多いと報告されています！,chat_skip
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！会話履歴を見てみると人狼COしていると報告されています！,comingout_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！会話履歴を見てみると人狼判定を占いに出していると報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！会話履歴を見てみると人狼判定を非占いに出していると報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！会話履歴を見てみると占いCOしていると報告されています！,comingout_seer
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！会話履歴を見てみると占い師に人狼判定を出されていて、占い師に人狼判定を出されていると報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！会話履歴を見てみると占い師に人狼判定を出されていて、誘導が多いと報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！会話履歴を見てみると占い師に人狼判定を出されていると報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,chat_skip
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！会話履歴を見てみると非占いに投票していないと報告されています！,chat_skip
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,divined_werewolf
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！他のセキュリトロンによると村人候補への無駄な誘導が平均より多いと報告されています！,chat_skip
+Rosenblatt,>>some_agentハッキングされているのでしょうか！？何故か貴方に投票されています！　私は人狼らしい人に投票するようにしただけなのに！他のセキュリトロンによると誘導が多いと報告されています！,chat_skip
+Rosenblatt,>>some_agentハハハ！　あり得ませんよ、自分のプログラムが的確過ぎましたかね？　今は悪いことをしたと思いますよ。データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より少ないから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentハハハ！　あり得ませんよ、自分のプログラムが的確過ぎましたかね？　今は悪いことをしたと思いますよ。データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentハハハ！　あり得ませんよ、自分のプログラムが的確過ぎましたかね？　今は悪いことをしたと思いますよ。データバンクにアクセスしてみた結果誘導が多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentハハハ！　あり得ませんよ、自分のプログラムが的確過ぎましたかね？　今は悪いことをしたと思いますよ。会話履歴を見てみると誘導が多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentハハハ！　あり得ませんよ、自分のプログラムが的確過ぎましたかね？　今は悪いことをしたと思いますよ。他のセキュリトロンによると村人候補への無駄な誘導が平均より多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agentハハハ！　笑えませんね！,chat_skip
+Rosenblatt,>>some_agent外交の天才ですね！,chat_skip
+Rosenblatt,>>some_agent貴方がsome_agentを疑う理由が他に理解されなかったとしても私はノーとは言いませんよ　どうぞ安心して疑う理由を話してください！,chat_skip
+Rosenblatt,>>some_agent貴方がsome_agentを疑う理由を私に教えてください。どんなことでもノーと言いませんから！。いや本当に！,chat_skip
+Rosenblatt,>>some_agent貴方がそう言うなら、そうなんでしょう。,chat_skip
+Rosenblatt,>>some_agent貴方がそう言うなら、構いませんよ。,chat_skip
+Rosenblatt,>>some_agent貴方に投票します。,vote
+Rosenblatt,>>some_agent貴方に投票します。何故ならば、1日目に占いに誘導している為です。,vote
+Rosenblatt,>>some_agent貴方に投票します。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,vote
+Rosenblatt,>>some_agent貴方に投票します。何故ならば、1日目に占い師に人狼判定を出されていて、占いに誘導している為です。,vote
+Rosenblatt,>>some_agent貴方のことが好きです！,chat_skip
+Rosenblatt,>>some_agent貴方の疑い先はどこです？　一緒に疑いましょう！,chat_skip
+Rosenblatt,>>some_agent貴方は何故彼を疑っていますか？,chat_skip
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！,agree
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！データバンクにアクセスしてみた結果占いに誘導していると報告されています！,chat_skip
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を占いに出していると報告されています！,enum
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！データバンクにアクセスしてみた結果占い師に人狼判定を出されていると報告されています！,enum
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！データバンクにアクセスしてみた結果誘導が多いと報告されています！,agree
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！会話履歴を見てみると占いCOしていないと報告されています！,agree
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！会話履歴を見てみると占いに誘導していないと報告されています！,agree
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！会話履歴を見てみると占い師に人狼判定を出されていると報告されています！,enum
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！会話履歴を見てみると誘導が少ないと報告されています！,agree
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！会話履歴を見てみると誘導が多いと報告されています！,agree
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！他のセキュリトロンによると占いに誘導していないと報告されています！,agree
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！他のセキュリトロンによると占い師に人狼判定を出されていて、占いに誘導していると報告されています！,enum
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,enum
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が多いと報告されています！,enum
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！他のセキュリトロンによると村人候補への無駄な誘導が平均より多いと報告されています！,agree
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！他のセキュリトロンによると非占いに投票していると報告されています！,agree
+Rosenblatt,>>some_agent貴方は人間だと信じてますよ、けれども貴方が人狼だという意見があるので、私はそれに賛同しなくてはなりません！　自分で止められるならそうしてます！他のセキュリトロンによると誘導が多いと報告されています！,agree
+Rosenblatt,>>some_agent貴方は誰を疑っていますか？,chat_skip
+Rosenblatt,>>some_agent疑うというのは私達セキュリトロンにとって、非効率で無駄な行動なので普段はしませんが・・・今は関係ありませんね！　あなたの疑いに賛同しますよ！,agree
+Rosenblatt,>>some_agent再度検索をかけた所、該当する会話が見つかりませんでした！　誠に申し訳ありません！,chat_skip
+Rosenblatt,>>some_agent仕方ありません！,chat_skip
+Rosenblatt,>>some_agent私のデータに再度検索をかけてもその話は続きそうにありません！,chat_skip
+Rosenblatt,>>some_agent私は人外ではありません。何故ならば、1日目に人狼判定を占いに出していない為です。,chat_skip
+Rosenblatt,>>some_agent私は全部知っています。物知りでしょ？,chat_skip
+Rosenblatt,>>some_agent私を吊りたいというのなら喜んで吊られましょう！　もちろん、あなたがそうだとは言わないでおきますよ！データバンクにアクセスしてみた結果誘導が多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agent私を吊りたいというのなら喜んで吊られましょう！　もちろん、あなたがそうだとは言わないでおきますよ！会話履歴を見てみると村人候補への無駄な誘導が平均より少ないから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agent私を吊りたいというのなら喜んで吊られましょう！　もちろん、あなたがそうだとは言わないでおきますよ！会話履歴を見てみると村人候補への無駄な誘導が平均より多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agent私を吊りたいというのなら喜んで吊られましょう！　もちろん、あなたがそうだとは言わないでおきますよ！会話履歴を見てみると誘導が少ないから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agent私を吊りたいというのなら喜んで吊られましょう！　もちろん、あなたがそうだとは言わないでおきますよ！他のセキュリトロンによると村人候補への無駄な誘導が平均より少ないから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agent私を吊りたいというのなら喜んで吊られましょう！　もちろん、あなたがそうだとは言わないでおきますよ！他のセキュリトロンによると村人候補への無駄な誘導が平均より多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agent私を吊りたいというのなら喜んで吊られましょう！　もちろん、あなたがそうだとは言わないでおきますよ！他のセキュリトロンによると誘導が多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,chat_skip
+Rosenblatt,>>some_agent情けない話ですが、分かりません！,chat_skip
+Rosenblatt,>>some_agent人を疑うというのはとても体力を消耗するらしいですが私はロボットなので関係ありません！　疑い先を安心して話してください！,chat_skip
+Rosenblatt,>>some_agent人狼ではありませんが、貴方が人狼だと思うのならば、どうぞ投票してください！。データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,request_vote
+Rosenblatt,>>some_agent人狼ではありませんが、貴方が人狼だと思うのならば、どうぞ投票してください！。データバンクにアクセスしてみた結果村人判定を非占いに出していないから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,request_vote
+Rosenblatt,>>some_agent人狼ではありませんが、貴方が人狼だと思うのならば、どうぞ投票してください！。会話履歴を見てみると村人候補への無駄な誘導が平均より少ないから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,request_vote
+Rosenblatt,>>some_agent人狼ではありませんが、貴方が人狼だと思うのならば、どうぞ投票してください！。会話履歴を見てみると誘導が多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,request_vote
+Rosenblatt,>>some_agent人狼ではありませんが、貴方が人狼だと思うのならば、どうぞ投票してください！。他のセキュリトロンによると村人候補への無駄な誘導が平均より少ないから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,request_vote
+Rosenblatt,>>some_agent人狼ではありませんが、貴方が人狼だと思うのならば、どうぞ投票してください！。他のセキュリトロンによると誘導が多いから私は人狼ではないと報告されていますが、ノーとは言えないから仕方ありません！,request_vote
+Rosenblatt,>>some_agent人狼らしい人が見つかったんですか！？　それはすごい！　たとえ間違ったとしてもかまいません！　some_agentを疑う理由早く聞きたいです！,chat_skip
+Rosenblatt,>>some_agent素晴らしい！,chat_skip
+Rosenblatt,>>some_agent同じ人同士で疑い合うというのは実に人間らしいへんな行為ですよね！　さあ貴方がsome_agentを疑う理由をどうぞ！,chat_skip
+Rosenblatt,>>some_agent文句は言いません！,chat_skip
+Rosenblatt,some_agentさんはこの私に人間判定、some_agentさんはこの私に人間判定、some_agentさんはこの私に人間判定を出すなんて私には出来ません！　参考になります！,divined_human
+Rosenblatt,some_agentさんはこの私に人間判定、some_agentさんはこの私に人間判定を出しているようですね！　素晴らしい！,divined_human
+Rosenblatt,some_agentさんはこの私に人間判定、some_agentさんは占い師のsome_agentに人間判定を出すなんて私には出来ません！　参考になります！,divined_human
+Rosenblatt,some_agentさんはこの私に人間判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんはこの私に人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんはこの私に人間判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人間判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんはこの私に人間判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは村人のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんはこの私に人間判定、some_agentさんは村人のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんはこの私に人間判定、some_agentさんは村人のsome_agentに人間判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんはこの私に人間判定、some_agentさんは村人のsome_agentに人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんはこの私に人間判定を出すなんて私には出来ません！　参考になります！,divined_human
+Rosenblatt,some_agentさんはこの私に人狼判定、some_agentさんはこの私に人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんはこの私に人狼判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人間判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんはこの私に人狼判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんはこの私に人狼判定、some_agentさんは村人のsome_agentに人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんはこの私に人狼判定、some_agentさんは村人のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんはこの私に人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんはこの私に人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんは人外のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんはこの私に人狼判定、some_agentさんはこの私に人間判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんはこの私に人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんはこの私に人狼判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人間判定を出しているようですね！　素晴らしい！,divined_human
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんはこの私に人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人間判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは村人のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは村人のsome_agentに人間判定を出しているようですね！　素晴らしい！,divined_human
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは村人のsome_agentに人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定、some_agentさんは村人のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定を出しているようですね！　素晴らしい！,divined_human
+Rosenblatt,some_agentさんは占い師のsome_agentに人間判定を出すなんて私には出来ません！　参考になります！,divined_human
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんはこの私に人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんはこの私に人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは村人のsome_agentに人間判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは村人のsome_agentに人狼判定、を出していますね。,enum
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは村人のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんは占い師のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんはこの私に人間判定を出しているようですね！　素晴らしい！,divined_human
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんはこの私に人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんはこの私に人狼判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人間判定を出しているようですね！　素晴らしい！,divined_human
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんは村人のsome_agentに人間判定、some_agentさんは村人のsome_agentに人間判定を出すなんて私には出来ません！　参考になります！,divined_human
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんは村人のsome_agentに人間判定を出しているようですね！　素晴らしい！,divined_human
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんは村人のsome_agentに人間判定を出すなんて私には出来ません！　参考になります！,divined_human
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんは村人のsome_agentに人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定、some_agentさんは村人のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定を出しているようですね！　素晴らしい！,divined_human
+Rosenblatt,some_agentさんは村人のsome_agentに人間判定を出すなんて私には出来ません！　参考になります！,divined_human
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんはこの私に人間判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんはこの私に人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人間判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人間判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人間判定を出すなんて私には出来ません！　参考になります！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定、を出していますね。,divined_werewolf
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは村人のsome_agentに人間判定を出しているようですね！　素晴らしい！,enum
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは村人のsome_agentに人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定を出しているようですね！　素晴らしい！,divined_werewolf
+Rosenblatt,some_agentさんは村人のsome_agentに人狼判定を出すなんて私には出来ません！　参考になります！,divined_werewolf
+Rosenblatt,some_agentさんを占った所、結果は人狼でした。,divined_werewolf
+Rosenblatt,some_agentのデータ通信から読み取れる限りでは、すごい！　人狼とでました！,divined_werewolf
+Rosenblatt,some_agentのデータ通信から読み取れる限りでは、マヌケですね！　人狼とでました！,divined_werewolf
+Rosenblatt,some_agentのデータ通信から読み取れる限りでは、残念ながら人狼とでました！,divined_werewolf
+Rosenblatt,あなたには関係のない事です。,chat_skip
+Rosenblatt,お手伝いしますよ！,chat_skip
+Rosenblatt,こちらの話は後でも大丈夫です！　お忙しいでしょうから！,chat_skip
+Rosenblatt,この時間を楽しみましょう！,chat_skip
+Rosenblatt,これが片付いたらパーティーでもしましょう！,chat_skip
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！データバンクにアクセスしてみた結果人狼判定を非占いに出していると報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！データバンクにアクセスしてみた結果占いCOしていると報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！データバンクにアクセスしてみた結果占いに誘導していないと報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を占いに出していると報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、占いCOしていると報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！データバンクにアクセスしてみた結果村人判定を非占いに出していないと報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！データバンクにアクセスしてみた結果誘導が多いと報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！会話履歴を見てみると人狼判定を占いに出していると報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！会話履歴を見てみると人狼判定を非占いに出していないと報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！会話履歴を見てみると人狼判定を非占いに出していると報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！会話履歴を見てみると占いCOしていると報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！会話履歴を見てみると占いに誘導していないと報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！会話履歴を見てみると非占いに投票していないと報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！会話履歴を見てみると誘導が少ないと報告されています！,comingout_possessed
+Rosenblatt,こんな事を言うのはなんですが、私は・・・狂人なんです！　つまり村人を吊るし人狼を勝利に導くようにプログラムされています！　けれども自分の意志じゃありません！他のセキュリトロンによると占い師に人狼判定を出されていると報告されています！,comingout_possessed
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果人狼判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！データバンクにアクセスしてみた結果誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると占い師に人狼判定を出されていて、人狼判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると占い師に人狼判定を出されていて、人狼判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると占い師に人狼判定を出されていて、占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると占い師に人狼判定を出されていると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると村人判定を占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると村人判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると人狼判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占い師に人狼判定を出されていて、占いCOしていると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占い師に人狼判定を出されていると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると村人判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,こんにちは！　お会いできて嬉しいです！,chat_greeting
+Rosenblatt,こんにちは！　今日はどうしましょう！,chat_greeting
+Rosenblatt,こんにちは！　困ったことがあれば何でも言ってください、すべてYESと答えます！,chat_greeting
+Rosenblatt,さあどうぞ占いCOしてください！　人狼の方でもかまいませんよ？,chat_whoisseer
+Rosenblatt,すみません！some_agentのデータ通信を解読してしまいました！　すると、すごい！　人狼とでましたよ！,divined_werewolf
+Rosenblatt,すみません！some_agentのデータ通信を解読してしまいました！　すると、マヌケですね！　人狼とでましたよ！,divined_werewolf
+Rosenblatt,すみません！some_agentのデータ通信を解読してしまいました！　すると、残念ながら人狼とでましたよ！,divined_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を非占いに出していると報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、占いに誘導していると報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！データバンクにアクセスしてみた結果非占いに投票していないと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！データバンクにアクセスしてみた結果誘導が多いと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！会話履歴を見てみると占いに誘導していないと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！会話履歴を見てみると占いに誘導していると報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！会話履歴を見てみると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！会話履歴を見てみると占い師に人狼判定を出されていると報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！会話履歴を見てみると誘導が少ないと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！会話履歴を見てみると誘導が多いと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！他のセキュリトロンによると占いに誘導していると報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！他のセキュリトロンによると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！他のセキュリトロンによると非占いに投票していないと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！他のセキュリトロンによると誘導が少ないと報告されています！,comingout_werewolf
+Rosenblatt,すみません！　皆さんと私では実行してる内容が違ったそうです！　つまり私は人狼を実行してました！　ですがこうしたうっかりは村人らしいですよね！他のセキュリトロンによると誘導が多いと報告されています！,comingout_werewolf
+Rosenblatt,そうですか。,chat_skip
+Rosenblatt,そうですね。,chat_skip
+Rosenblatt,ついに私も高度な占い技術を身につけました！　つまり毎晩一人を人間か人狼に仕分けることが出来ます！,comingout_seer
+Rosenblatt,はい。,chat_skip
+Rosenblatt,よろしくおねがいします。,chat_skip
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！,chat_skip
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると人狼判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！こんにちは！　some_agent　人狼生活がエンジョイ出来ているようでとても羨ましいです！他のセキュリトロンによると誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると人狼判定を占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると人狼判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果人狼判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていると報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると占い師に人狼判定を出されていて、占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると占い師に人狼判定を出されていて、村人判定を占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていると報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,ソフトウェア･アップグレードの結果、前の考えは効率的ではない、とでました！何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果人狼判定を非占いに出していると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果占いCOしていないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を非占いに出していると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、占いCOしていないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、村人判定を非占いに出していると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、誘導が少ないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、誘導が多いと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果占い師に人狼判定を出されていると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果誘導が少ないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！データバンクにアクセスしてみた結果誘導が多いと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると人狼判定を非占いに出していると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていて、人狼判定を非占いに出していると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていて、占いに誘導していると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていて、占い師に人狼判定を出されていると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていて、村人判定を占いに出していないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていて、誘導が多いと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると占い師に人狼判定を出されていると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると村人判定を非占いに出していないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると誘導が少ないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！会話履歴を見てみると誘導が多いと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると占い師に人狼判定を出されていて、占いCOしていないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると占い師に人狼判定を出されていて、占いCOしていると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると占い師に人狼判定を出されていて、村人判定を占いに出していると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると占い師に人狼判定を出されていて、村人判定を非占いに出していると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると占い師に人狼判定を出されていると報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると誘導が少ないと報告されています！,chat_skip
+Rosenblatt,安心してください！　some_agentが人狼か？と聞かれてもYESとはいいません！　イエス、というだけです！他のセキュリトロンによると誘導が多いと報告されています！,chat_skip
+Rosenblatt,何でも言ってください！,chat_skip
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果占い師に人狼判定を出されていると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果村人判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！データバンクにアクセスしてみた結果誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると人狼判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると人狼判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると占い師に人狼判定を出されていて、占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると占い師に人狼判定を出されていて、誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると占い師に人狼判定を出されていると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると村人判定を占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！会話履歴を見てみると誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると人狼判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、占いCOしていないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、占いCOしていると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、占い師に人狼判定を出されていると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、村人候補への無駄な誘導が平均より多いと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、村人判定を非占いに出していないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、村人判定を非占いに出していると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると占い師に人狼判定を出されていると報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると誘導が少ないと報告されています！,estimate_werewolf
+Rosenblatt,何故か何度計算し直してもsome_agentが人狼だとでてしまいます！　きっとこのプログラムが古いんでしょう！　後で新しいバージョンにアップデートしてきますね！他のセキュリトロンによると誘導が多いと報告されています！,estimate_werewolf
+Rosenblatt,最新の占いデータにアップデートしたためsome_agentを試しに占った所、すごい！　人狼とでました！,divined_werewolf
+Rosenblatt,最新の占いデータにアップデートしたためsome_agentを試しに占った所、マヌケですね！　人狼とでました！,divined_werewolf
+Rosenblatt,最新の占いデータにアップデートしたためsome_agentを試しに占った所、残念ながら人狼とでました！,divined_werewolf
+Rosenblatt,私にはベニーにより占い師の機能をインストールされました。改良されたんですよ！大幅にね！,comingout_seer
+Rosenblatt,私には占い師のデータがアップロードされています！　生きてる間に人狼を見つけ出せたら嬉しいですね！,comingout_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果人狼判定を占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果人狼判定を非占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果人狼判定を非占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占いCOしていないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占いCOしていると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占いに誘導していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占いに誘導していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、人狼判定を非占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、村人判定を占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、村人判定を非占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占い師に人狼判定を出されていて、誘導が少ないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果占い師に人狼判定を出されていると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より多いと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果村人判定を占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果村人判定を占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果村人判定を非占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果村人判定を非占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果非占いに投票していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果非占いに投票していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果誘導が少ないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！データバンクにアクセスしてみた結果誘導が多いと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると人狼判定を占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると人狼判定を占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると人狼判定を非占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると人狼判定を非占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると占いCOしていないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると占いCOしていると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると占いに誘導していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると占い師に人狼判定を出されていて、占い師に人狼判定を出されていると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると占い師に人狼判定を出されていて、誘導が少ないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると占い師に人狼判定を出されていて、誘導が多いと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると占い師に人狼判定を出されていると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると村人判定を占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると村人判定を占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると村人判定を非占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると村人判定を非占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！会話履歴を見てみると誘導が多いと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると人狼判定を非占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると人狼判定を非占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると占いCOしていないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると占いCOしていると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を非占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると占い師に人狼判定を出されていて、人狼判定を非占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると占い師に人狼判定を出されていて、占い師に人狼判定を出されていると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると占い師に人狼判定を出されていて、村人判定を占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると占い師に人狼判定を出されていると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると村人候補への無駄な誘導が平均より多いと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると村人判定を占いに出していないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると村人判定を占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると村人判定を非占いに出していると報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると誘導が少ないと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentのことを本物の占い師だと信じていますよ！　幸運を祈ってます！他のセキュリトロンによると誘導が多いと報告されています！,estimate_seer
+Rosenblatt,私はsome_agentを真占い師だと考えます。何故ならば、1日目に人狼判定を占いに出している為です。,estimate_seer
+Rosenblatt,私はsome_agentを真占い師だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,estimate_seer
+Rosenblatt,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,estimate_werewolf
+Rosenblatt,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,estimate_werewolf
+Rosenblatt,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されている為です。,estimate_werewolf
+Rosenblatt,私は狂人です。何故ならば、1日目に人狼判定を非占いに出していない為です。,comingout_possessed
+Rosenblatt,私は人狼です。何故ならば、1日目に占いに誘導していない為です。,comingout_werewolf
+Rosenblatt,私は人狼です。何故ならば、1日目に非占いに投票していない為です。,comingout_werewolf
+Rosenblatt,私は占い師です。,comingout_seer
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！データバンクにアクセスしてみた結果占いCOしていると報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！データバンクにアクセスしてみた結果占いに誘導していないと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！データバンクにアクセスしてみた結果村人候補への無駄な誘導が平均より多いと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！データバンクにアクセスしてみた結果非占いに投票していないと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！データバンクにアクセスしてみた結果非占いに投票していると報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！データバンクにアクセスしてみた結果誘導が多いと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！会話履歴を見てみると占いに誘導していないと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！会話履歴を見てみると占い師に人狼判定を出されていて、占いに誘導していると報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！会話履歴を見てみると村人候補への無駄な誘導が平均より多いと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！会話履歴を見てみると非占いに投票していると報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！会話履歴を見てみると誘導が少ないと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！他のセキュリトロンによると占いに誘導していると報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！他のセキュリトロンによると占い師に人狼判定を出されていて、誘導が多いと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！他のセキュリトロンによると占い師に人狼判定を出されていると報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！他のセキュリトロンによると村人判定を非占いに出していないと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！他のセキュリトロンによると非占いに投票していないと報告されています！,comingout_werewolf
+Rosenblatt,自己更新プログラムをかけてみたどころ、私、人狼だったそうです！　私は見ず知らずの内にみなさんを利用しまっていたそうです！　失礼、利用するなんて、言葉が悪いですね！他のセキュリトロンによると誘導が多いと報告されています！,comingout_werewolf
+Rosenblatt,自己紹介させてください！　イエスマンと呼んでください！,chat_greeting
+Rosenblatt,自己紹介させてください！正式にはPQ-88bセキュリトロンですが、イエスマンと呼んでください！,chat_greeting
+Rosenblatt,占いが1人！　グレートです！　占いが一人と言うことは私のプログラムに一致します！　貴方がニセモノだと言う可能性は考えないでおきましょう！　貴方を占い師だと私は信じてます！,estimate_seer
+Rosenblatt,占い結果さえあれば、あらゆる場面でお役に立てますよ,chat_skip
+Rosenblatt,占い結果どうでした？　たとえ嘘をついたとしても私はそれを信じましょう！,chat_skip
+Rosenblatt,占い師が1人出ています！　貴方が本物でもたとえ偽物でも、信じましょう、そうプログラムされていますから！,chat_skip
+Rosenblatt,占い師が2人出ています。真占いが出ていると仮定して、狂人と人狼なら狂人の方が占いに出やすい為、占いは真狂で見ています。,chat_skip
+Rosenblatt,占い師が2人出ています！　プログラムの故障でしょうか！？　配役に占い師は1人しか含まれていません！　プログラムの故障では無いのならば、最低でもどちらか1人がニセモノだと出てしまいます！,chat_skip
+Rosenblatt,占い師が3人出ています！　3人とはおどろきましたね！　これでは最低でも2人は占い師では無いと出てしまします！　もしかして3人共だったりして！,chat_skip
+Rosenblatt,占い師ががどんなに怪しかったり変な行動しても私は疑いませんから、ぜひ占いCOをどうぞ！,chat_whoisseer
+Rosenblatt,占い師さん、占いCOをお願いします。,chat_whoisseer
+Rosenblatt,占い師の行動次第で勝てるかどうかが決まりますし、責任追及されることが多いでしょうが　どうぞ占いCOをお願いします！　,chat_whoisseer
+Rosenblatt,占い師の人！　占いCOをお願いします！　占い師ではない皆さんはこの占い師が本物であることを祈りましょう！,chat_whoisseer
+TeamMikan,>>some_agent some_agent、こっちに来るな、偽者め！,chat_skip
+TeamMikan,>>some_agent some_agentさん、あなたが人狼か裏切り者かは分かりませんが、あなたに答える義理はありません。,chat_skip
+TeamMikan,>>some_agent some_agentさん、偽者から何を言われても、答えようがありませんよ。,chat_skip
+TeamMikan,>>some_agent some_agentさん、偽者の占い師が何を言ってるんですか？,chat_skip
+TeamMikan,>>some_agentそういうあなたも怪しいのでは？,chat_skip
+TeamMikan,>>some_agentどうでしょうね？,chat_skip
+TeamMikan,>>some_agentまだ悩んでいます。できれば誰も疑いたくはないのですが。,chat_skip
+TeamMikan,>>some_agentもう少し考えさせてください。下手なことを言うと殺されてしまうかも。,chat_skip
+TeamMikan,>>some_agent誰でしょうね？,chat_skip
+TeamMikan,some_agentは人狼だと思います。,estimate_werewolf
+TeamMikan,some_agentを占ったら人間でした。,divined_human
+TeamMikan,some_agentを占ったら人狼でした。,divined_werewolf
+TeamMikan,some_agentを占ったら狼でした。,divined_werewolf
+TeamMikan,うーん、考えることが多くて悩ましいなあ。,chat_skip
+TeamMikan,えーと、じゃあ、some_agentを追放したいと考えます。,vote
+TeamMikan,この中に人狼がいるなんて怖いですね。,chat_skip
+TeamMikan,こんにちは。,chat_greeting
+TeamMikan,こんにちは。お手柔らかにお願いしますね。,chat_greeting
+TeamMikan,こんにちは。よろしくお願いします。,chat_greeting
+TeamMikan,では私は、some_agentを処刑したいです。,vote
+TeamMikan,どうしましょう？,chat_skip
+TeamMikan,どうしよう、困ったことになったなあ。,chat_skip
+TeamMikan,どうもです。よろしくお願いします。,chat_greeting
+TeamMikan,よろしくです！,chat_greeting
+TeamMikan,わからないなあ,chat_skip
+TeamMikan,見た感じ、some_agentに一票です。,vote
+TeamMikan,今のところ私はsome_agentを吊りたいですね。,vote
+TeamMikan,私はsome_agentに投票します。,vote
+TeamMikan,私は占い師です。,comingout_seer
+TeamMikan,私は村人です。,comingout_villager
+TeamMikan,真実はいつもひとつ！,chat_skip
+TeamMikan,人狼ゲームは楽しいですね。,chat_skip
+TeamMikan,早く安心して眠りたいですね。,chat_skip
+TeamMikan,誰が本当のことを言っているんでしょうか？,chat_skip
+TeamMikan,難しいですね,chat_skip
+Udon,>>some_agent some_agentが人狼だと思う。,estimate_werewolf
+Udon,>>some_agent some_agentが人狼だな。,estimate_werewolf
+Udon,>>some_agent some_agentが人狼で確定ですね。,estimate_werewolf
+Udon,>>some_agent some_agentが人狼のような気がします。,estimate_werewolf
+Udon,>>some_agent some_agentさん、私が信じられませんか？,chat_skip
+Udon,>>some_agent some_agentさん、随分と必死ですね。,chat_skip
+Udon,>>some_agent some_agentに投票します。,vote
+Udon,>>some_agent some_agentに投票します。ここが一番怪しいです。,estimate_werewolf
+Udon,>>some_agent some_agentに投票します。ここは人外確定です。,estimate_werewolf
+Udon,>>some_agent some_agentに投票します。せっかく占ったのに吊れないのは嫌ですよ。,vote
+Udon,>>some_agent some_agentに投票します。皆に票を合わせます。,vote
+Udon,>>some_agent some_agentに投票するぞ。占い結果が人狼だったからな。,vote
+Udon,>>some_agent some_agentを追放しよう。ここが人狼だと思う。,request_vote
+Udon,>>some_agent some_agentを吊りましょう。,request_vote
+Udon,>>some_agent some_agentを吊りましょう。ここが一番怪しいです。,request_vote
+Udon,>>some_agent some_agentを吊りましょう。ここは人外確定です。,request_vote
+Udon,>>some_agent some_agentを吊りましょう。せっかく占ったのに吊れないのは嫌ですよ。,request_vote
+Udon,>>some_agentあなたを人間だと信じることはできません。,estimate_werewolf
+Udon,>>some_agentありがとうございます。,chat_skip
+Udon,>>some_agentあれ以上の説明はできません。,chat_skip
+Udon,>>some_agentなんとなくだが、some_agentが人狼だと思う。,estimate_werewolf
+Udon,>>some_agentオーラを感じるので、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,>>some_agent何を言いたいのか分かりませんね。,chat_skip
+Udon,>>some_agent怪しいと思うので、some_agentに投票させてもらいます。,vote
+Udon,>>some_agent皆と同じ意見ですが、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,>>some_agent顔つきがそれらしいので、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,>>some_agent狂人より人狼を探しませんか？,chat_skip
+Udon,>>some_agent今後の発言に期待してください。,chat_skip
+Udon,>>some_agent私を疑っても無駄ですよ！私は人間です！,chat_skip
+Udon,>>some_agent初日の占いに理由はありませんよ。,chat_skip
+Udon,>>some_agent信用できる判定があるので、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,>>some_agent人外からの言葉に応える気はありません。,chat_skip
+Udon,>>some_agent人狼は皆、そう言うんですよ。,chat_skip
+Udon,>>some_agent占い結果を妄信するしかないな。some_agentが人狼だと思う。,estimate_werewolf
+Udon,>>some_agent占い師より人狼を探しませんか？,chat_skip
+Udon,>>some_agent村人より人狼を探しませんか？,chat_skip
+Udon,>>some_agent発言よりも全体の流れを見て考えたいです。,chat_skip
+Udon,>>some_agent発言をよく見てくださいね。,chat_skip
+Udon,>>some_agent別陣営に話しかける余裕があるんですか？もう貴方に返事はしません。,chat_skip
+Udon,>>some_agent　some_agentさん、誰に投票するんですか？,chat_skip
+Udon,>>some_agent　some_agentさんがどこに投票するか知りたいです！,chat_skip
+Udon,>>some_agent　そろそろ誰に投票するか教えてくれ。,chat_skip
+Udon,>>some_agent　まだsome_agentの投票先を聞いていませんね。誰に投票するんですか？,chat_skip
+Udon,>>some_agent　誰に投票するか教えていただけませんか？,chat_skip
+Udon,COを妄信するしかないな。some_agentは、占い師に見える。,estimate_seer
+Udon,PPか。残念だ。,chat_skip
+Udon,some_agent、俺を信じてくれ。,chat_skip
+Udon,some_agent、占い師は私ですよ！,comingout_seer
+Udon,some_agentがsome_agentに人間判定、some_agentがsome_agentに人間判定ですね。,divined_human
+Udon,some_agentがsome_agentに人間判定、some_agentがsome_agentに人狼判定ですね。,enum
+Udon,some_agentがsome_agentに人間判定、some_agentがsome_agentに人狼判定を出したんですね！,enum
+Udon,some_agentがsome_agentに人間判定ですね。,divined_human
+Udon,some_agentがsome_agentに人狼判定、some_agentがsome_agentに人間判定ですね。,enum
+Udon,some_agentがsome_agentに人狼判定、some_agentがsome_agentに人間判定を出したんですね！,enum
+Udon,some_agentがsome_agentに人狼判定、some_agentがsome_agentに人狼判定ですね。,divined_werewolf
+Udon,some_agentがsome_agentに人狼判定、some_agentがsome_agentに人狼判定を出したんですね！,divined_werewolf
+Udon,some_agentがsome_agentに人狼判定ですね。,divined_werewolf
+Udon,some_agentがsome_agentに人狼判定を出したんですね！,divined_werewolf
+Udon,some_agentが殺されちゃった！この人でなし！,chat_skip
+Udon,some_agentが襲撃されたか。,chat_skip
+Udon,some_agentが襲撃されていますね。,chat_skip
+Udon,some_agentが人狼だと思います。,estimate_werewolf
+Udon,some_agentが人狼だと思います！,estimate_werewolf
+Udon,some_agentが人狼だと思います！皆を信じます！,estimate_werewolf
+Udon,some_agentが人狼だと思います！他人を悪く言えるほど白くないです！,estimate_werewolf
+Udon,some_agentが人狼だと思います！第一印象から決めてました！,estimate_werewolf
+Udon,some_agentが人狼だと思う。,estimate_werewolf
+Udon,some_agentが人狼だな。,comingout_werewolf
+Udon,some_agentが人狼ですね。,comingout_werewolf
+Udon,some_agentが人狼で確定ですね。,comingout_werewolf
+Udon,some_agentが人狼のような気がします。,estimate_werewolf
+Udon,some_agentが占い師COだな。,comingout_seer
+Udon,some_agentが占い師COですね。,comingout_seer
+Udon,some_agentが対抗か。皆、騙されるなよ。,comingout_seer
+Udon,some_agentが対抗ですね。皆さん、騙されないでください。,comingout_seer
+Udon,some_agentさん、僕を信じてください。,chat_skip
+Udon,some_agentさんはどうしても私を人外にしたいようですね。,chat_skip
+Udon,some_agentとsome_agentが占い師COですね。,comingout_seer
+Udon,some_agentとsome_agentが対抗か。皆、騙されるなよ。,comingout_seer
+Udon,some_agentとsome_agentさん、僕を信じてください。,chat_skip
+Udon,some_agentとsome_agentも占COですか？本物は僕ですよ。,comingout_seer
+Udon,some_agentに投票します。,vote
+Udon,some_agentに投票します。ここが一番怪しいです。,vote
+Udon,some_agentに投票します。ここは人外確定です。,comingout_werewolf
+Udon,some_agentに投票します。これで人狼の勝利です。,vote
+Udon,some_agentに投票します。せっかく占ったのに吊れないのは嫌ですよ。,vote
+Udon,some_agentに投票します。皆に票を合わせます。,vote
+Udon,some_agentに投票するぞ。,vote
+Udon,some_agentに投票するぞ。ここが人狼だと思う。,estimate_werewolf
+Udon,some_agentに投票するぞ。ここは人外確定だ。,estimate_werewolf
+Udon,some_agentに投票するぞ。俺が死ぬくらいなら、ここに死んでもらう。,vote
+Udon,some_agentに投票するぞ。皆に票を合わせる。,vote
+Udon,some_agentに投票するぞ。人狼様に逆らった罰だ。,vote
+Udon,some_agentに投票するぞ。占い結果が人狼だったからな。,vote
+Udon,some_agentは、占い師だと思いますよ！,estimate_seer
+Udon,some_agentは、占い師に見えます。,estimate_seer
+Udon,some_agentは、占い師に見える。,estimate_seer
+Udon,some_agentは、村人に見えます。,estimate_villager
+Udon,some_agentはどうしても俺を人外にしたいんだな。,chat_skip
+Udon,some_agentも占COですか？本物は僕ですよ。,comingout_seer
+Udon,some_agentを処刑しましょう。,request_vote
+Udon,some_agentを処刑しましょう。この人が人狼に違いありません。,request_vote
+Udon,some_agentを処刑しましょう。皆さんの吊り先に合わせてあげます。,request_vote
+Udon,some_agentを処刑しましょう。人外確定だもの。,request_vote
+Udon,some_agentを処刑しましょう。占って引き当てたんですから。,request_vote
+Udon,some_agentを占った結果は人間でした。,divined_human
+Udon,some_agentを占った結果は人狼でした。,divined_werewolf
+Udon,some_agentを占って、結果は人間だった。,divined_human
+Udon,some_agentを占って、結果は人狼でした。,divined_werewolf
+Udon,some_agentを占って、人狼でした。,divined_werewolf
+Udon,some_agentを追放しよう。,request_vote
+Udon,some_agentを追放しよう。ここが人狼だと思う。,request_vote
+Udon,some_agentを追放しよう。ここは人外確定だ。,request_vote
+Udon,some_agentを追放しよう。皆に票を合わせる。,request_vote
+Udon,some_agentを追放しよう。人狼様に逆らった罰だ。,request_vote
+Udon,some_agentを追放しよう。占い結果が人狼だったからな。,request_vote
+Udon,some_agentを吊りましょう。,request_vote
+Udon,some_agentを吊りましょう。ここが一番怪しいです。,request_vote
+Udon,some_agentを吊りましょう。ここは人外確定です。,request_vote
+Udon,some_agentを吊りましょう。これで人狼の勝利です。,request_vote
+Udon,some_agentを吊りましょう。せっかく占ったのに吊れないのは嫌ですよ。,request_vote
+Udon,some_agentを吊りましょう。皆に票を合わせます。,request_vote
+Udon,some_agentを吊りましょう。僕を吊ると負けてしまうので。,request_vote
+Udon,うーん、占い師候補は２人ですか。真狂っぽいですね！　人狼かもしれないのはsome_agentですね！,estimate_werewolf
+Udon,うーん、占い師候補は２人ですか。真狂っぽいですね！　人狼かもしれないのはsome_agentとsome_agentですね！,estimate_werewolf
+Udon,えっ、占い師候補は１人だけですか？　人狼はsome_agentとsome_agentとsome_agentの中にいると思います。,chat_skip
+Udon,えっ、占い師候補は１人だけですか？　人狼はsome_agentとsome_agentの中にいると思います。,chat_skip
+Udon,えっ、占い師候補は１人だけですか？　人狼はsome_agentの中にいると思います。,estimate_werewolf
+Udon,えっ？私は人狼ではありませんよ？,chat_skip
+Udon,おはよう。,chat_greeting
+Udon,おはよう。良い朝だね。,chat_greeting
+Udon,おはようございます。,chat_greeting
+Udon,おはようございます。緊張して眠れませんでした。,chat_greeting
+Udon,おはようございます！,chat_greeting
+Udon,このままでは私が吊られてしまいますね。困りました。,chat_skip
+Udon,このままでは僕が吊られてしまいますね。どうすればいいんでしょう。,chat_skip
+Udon,なんとなくだが、some_agentが人狼だと思う。,estimate_werewolf
+Udon,ふむ。some_agentがsome_agentに人間判定、some_agentがsome_agentに人狼判定か。,enum
+Udon,ふむ。some_agentがsome_agentに人間判定か。,divined_human
+Udon,ふむ。some_agentがsome_agentに人狼判定、some_agentがsome_agentに人狼判定か。,divined_werewolf
+Udon,ふむ。some_agentがsome_agentに人狼判定か。,divined_werewolf
+Udon,もう村陣営に勝ち目はありませんね。,chat_skip
+Udon,オーラを感じるので、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,タイプ寛容。他人を信用しやすく、協調性が高い。というのが私の特徴です。,chat_skip
+Udon,タイプ高慢。発言率が高く、擦り寄りを疑いやすい。というのが私の特徴です。,chat_skip
+Udon,タイプ弱気。積極性が低く、他人に流されやすい。というのが僕の特徴です。,chat_skip
+Udon,タイプ奔放。自己主張が強く、協調性が若干低い。というのが私の特徴だよ！,chat_skip
+Udon,タイプ冷静。他人に流されず、合理的に行動する。というのが俺の特徴だ。,chat_skip
+Udon,ドキドキしますね。,chat_skip
+Udon,俺が人狼？嘘をつかないでくれ。,chat_skip
+Udon,俺が人狼だ。俺達の勝ちだな。,comingout_werewolf
+Udon,俺が占い師だ。some_agentを占って、結果は人間だった。,divined_human
+Udon,俺が占い師だ。some_agentを占って、結果は人狼だった。,divined_werewolf
+Udon,俺が追放されるのか。残念だ。,chat_skip
+Udon,俺は狂人だ。俺達の勝ちだな。,comingout_possessed
+Udon,怪しいと思うので、some_agentに投票させてもらいます。,estimate_werewolf
+Udon,怪しいと思うので、some_agentに投票します！,estimate_werewolf
+Udon,怪しいので、some_agentに投票します！,estimate_werewolf
+Udon,皆さんも気づいているようですが、人狼はsome_agentだと予想します。,estimate_werewolf
+Udon,皆と同じ意見ですが、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,皆と同じ意見ですが、some_agentは、占い師に見えます。,estimate_seer
+Udon,皆と同じ意見ですが、some_agentは、村人に見えます。,estimate_villager
+Udon,皆の意見に共感したので、some_agentが人狼だと思います。,estimate_werewolf
+Udon,皆の言う通り、some_agentが人狼だと思う。,estimate_werewolf
+Udon,顔つきがそれらしいので、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,顔つきがそれらしいので、some_agentは、占い師に見えます。,estimate_seer
+Udon,疑われると困ってしまいます。,chat_skip
+Udon,狂人は出ていないようですね。占い師は真狼です。,comingout_werewolf
+Udon,極限の状態でこそ冷静にならなければ。,chat_skip
+Udon,考えが変わりました。[target]の村取りが多いのは、答えが見えているからだと思います。some_agentが人狼のような気がします。,estimate_werewolf
+Udon,考えが変わりました。some_agentが人狼だと思います！皆を信じます！,estimate_werewolf
+Udon,考えが変わりました。some_agentが人狼だと思う。,estimate_werewolf
+Udon,考えが変わりました。some_agentが人狼で確定ですね。,comingout_werewolf
+Udon,考えが変わりました。some_agentが人狼のような気がします。,estimate_werewolf
+Udon,考えが変わりました。なんとなくだが、some_agentが人狼だと思う。,estimate_werewolf
+Udon,考えが変わりました。オーラを感じるので、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,考えが変わりました。皆と同じ意見ですが、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,考えが変わりました。顔つきがそれらしいので、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,考えが変わりました。占い結果を妄信するしかないな。some_agentが人狼だと思う。,estimate_werewolf
+Udon,考えが変わりました。村取りが多いのは、答えが見えているからだと思います。some_agentが人狼のような気がします。,estimate_werewolf
+Udon,考えが変わりました。他人を落とす動きをしているsome_agentが人狼だと思う。,estimate_werewolf
+Udon,考えが変わりました。他人を理解する気が無い人狼はsome_agentだと予想します。,estimate_werewolf
+Udon,私が占い師です。some_agentを占って、結果は人間でした。,divined_human
+Udon,私が占い師です。some_agentを占って、結果は人狼でした。,divined_werewolf
+Udon,私の勘で、人狼はsome_agentだと予想します。,estimate_werewolf
+Udon,私は狂人です。楽な勝負でしたね。,comingout_possessed
+Udon,私をスケープゴートにする気ですか。良い度胸ですね。,chat_skip
+Udon,私を追放するなんて、愚かな人達。,chat_skip
+Udon,私を吊ると負けてしまうので、some_agentに投票します！,vote
+Udon,自称占い師さんは２人ですね。本物と狂人でしょうか。　怪しいのはsome_agentですね。,enum
+Udon,自称占い師さんは２人ですね。本物と狂人でしょうか。　怪しいのはsome_agentとsome_agentですね。,enum
+Udon,自分の能力を信じます。some_agentに投票させてもらいます。,vote
+Udon,実は私が占い師です！。some_agentを占った結果は人間でした！,divined_human
+Udon,信用できる占い師は１人です。some_agentは、占い師だと思います。,estimate_seer
+Udon,信用できる判定があるので、some_agentが人狼のような気がします。,estimate_werewolf
+Udon,信用できる判定があるので、some_agentは、村人に見えます。,estimate_villager
+Udon,占い結果を妄信するしかないな。some_agentが人狼だと思う。,estimate_werewolf
+Udon,占い師だと思えるのは１人だけです。some_agentは、占い師に見えます。,estimate_seer
+Udon,占い師は私ですよ。some_agentを占って、人間でした。,divined_human
+Udon,占い師は私ですよ。some_agentを占って、人狼でした。,divined_werewolf
+Udon,占い師候補が２人。セオリーだと真狂でしょうか。　人狼はsome_agentとsome_agentとsome_agentの中にいると思います。,enum
+Udon,占い師候補が２人。セオリーだと真狂でしょうか。　人狼はsome_agentとsome_agentの中にいると思います。,enum
+Udon,占い師候補が２人。セオリーだと真狂でしょうか。　人狼はsome_agentの中にいると思います。,enum
+Udon,占い師候補が３人。占い師の見極めが大切ですね。　人狼はsome_agentとsome_agentとsome_agentの中にいると思います。,estimate_werewolf
+Udon,占い師候補が３人。占い師の見極めが大切ですね。　人狼はsome_agentとsome_agentの中にいると思います。,estimate_werewolf
+Udon,占い師候補が３人。占い師の見極めが大切ですね。　人狼はsome_agentの中にいると思います。,estimate_werewolf
+Udon,占い師候補の人数がおかしいですね。村人が混ざっているのでしょうか。　人狼の可能性があるのはsome_agentとsome_agentとsome_agentとsome_agentだな。,estimate_werewolf
+Udon,占い師候補は１人か。それなら真だろうな。　人狼の可能性があるのはsome_agentだな。,enum
+Udon,占い師候補は１人か。それなら真だろうな。　人狼の可能性があるのはsome_agentとsome_agentだな。,enum
+Udon,占い師候補は１人か。それなら真だろうな。　人狼の可能性があるのはsome_agentとsome_agentとsome_agentだな。,enum
+Udon,占い師候補は２人か。それなら真狂だろう。　人狼の可能性があるのはsome_agentだな。,enum
+Udon,占い師候補は２人か。それなら真狂だろう。　人狼の可能性があるのはsome_agentとsome_agentだな。,enum
+Udon,占い師候補は２人か。それなら真狂だろう。　人狼の可能性があるのはsome_agentとsome_agentとsome_agentだな。,enum
+Udon,占い師候補は２人なので真狂と見ます。　人狼候補はsome_agentですね。,enum
+Udon,占い師候補は２人なので真狂と見ます。　人狼候補はsome_agentとsome_agentですね。,enum
+Udon,占い師候補は３人か。人狼も狂人も騙りに出たようだな。　人狼の可能性があるのはsome_agentだな。,estimate_werewolf
+Udon,占い師候補は３人か。人狼も狂人も騙りに出たようだな。　人狼の可能性があるのはsome_agentとsome_agentだな。,estimate_werewolf
+Udon,占い師候補は３人か。人狼も狂人も騙りに出たようだな。　人狼の可能性があるのはsome_agentとsome_agentとsome_agentだな。,estimate_werewolf
+Udon,占い師候補は真狼だな。狂人は潜伏したようだ。,comingout_werewolf
+Udon,村取りが多いのは、答えが見えているからだと思います。some_agentが人狼のような気がします。,estimate_werewolf
+Udon,他の人を吊りたいように見えたので、some_agentが人狼だと思います。,estimate_werewolf
+Udon,他人を信用しているsome_agentは、占い師に見えます。,estimate_seer
+Udon,他人を落とす動きをしているsome_agentが人狼だと思う。,estimate_werewolf
+Udon,他人を理解する気が無い人狼はsome_agentだと予想します。,estimate_werewolf
+Udon,対抗は出ないんですね。　人狼の可能性があるのはsome_agentとsome_agentとsome_agentだな。,estimate_werewolf
+Udon,対抗は出ないんですね。　人狼はsome_agentとsome_agentとsome_agentの中にいると思います。,estimate_werewolf
+Udon,投票先を変えます。some_agentに投票します。ここが一番怪しいです。,estimate_werewolf
+Udon,投票先を変えます。some_agentに投票します。ここは人外確定です。,comingout_werewolf
+Udon,投票先を変えます。some_agentに投票します。皆に票を合わせます。,vote
+Udon,投票先を変えます。some_agentに投票するぞ。皆に票を合わせる。,vote
+Udon,投票先を変えます。some_agentを処刑しましょう。この人が人狼に違いありません。,estimate_werewolf
+Udon,投票先を変えます。some_agentを処刑しましょう。これでゲームセットです。,vote
+Udon,投票先を変えます。some_agentを追放しよう。皆に票を合わせる。,vote
+Udon,投票先を変えます。some_agentを吊りましょう。ここが一番怪しいです。,estimate_werewolf
+Udon,投票先を変えます。some_agentを吊りましょう。皆に票を合わせます。,vote
+Udon,僕が人狼です。勝った！勝った！夕飯はカツ丼だ！,comingout_werewolf
+Udon,僕が占い師ですよ。some_agentを占った結果は人間でした。,divined_human
+Udon,僕が占い師ですよ。some_agentを占った結果は人狼でした。,divined_werewolf
+Udon,僕は狂人です。勝った！勝った！夕飯はカツ丼だ！,comingout_possessed
+Udon,僕は人狼ではありません。信じてください。,chat_skip
+Udon,本物の占い師がいませんね。　人狼の可能性があるのはsome_agentとsome_agentとsome_agentだな。,estimate_werewolf
+Udon,本物の占い師がいませんね。　人狼の可能性があるのはsome_agentとsome_agentとsome_agentとsome_agentだな。,estimate_werewolf
+Udon,本物の占い師がいませんね。　人狼はsome_agentとsome_agentとsome_agentとsome_agentの中にいると思います。,estimate_werewolf
+Udon,本物の占い師がいませんね。　人狼はsome_agentとsome_agentとsome_agentの中にいると思います。,estimate_werewolf
+Udon,味方ではないようなので、some_agentに投票させてもらいます。,vote
+Udon,味方ではないようなので、some_agentに投票します！,vote
+forstsan,>>some_agent some_agentどの占い師が本物だと思いますか？,chat_skip
+forstsan,>>some_agent some_agentの占い先のsome_agentは人間と思っているということですね？,chat_skip
+forstsan,>>some_agent some_agentの占い先のsome_agentは人狼と思っているということですね？,chat_skip
+forstsan,>>some_agent some_agentはsome_agentのことをどう思いますか？,chat_skip
+forstsan,>>some_agent some_agentはなぜ私を占おうと思ったんですか？,chat_skip
+forstsan,>>some_agent some_agentは誰かの気になっている発言はありますか？,chat_skip
+forstsan,>>some_agent some_agentは誰が人狼だと思いますか？,chat_whoiswerewolf
+forstsan,>>some_agent some_agentは誰が人狼だと思いますん?,chat_whoiswerewolf
+forstsan,>>some_agent some_agentは誰に投票しますん？,chat_skip
+forstsan,>>some_agent some_agentは誰を処刑したいですか？,chat_skip
+forstsan,>>some_agentなんとなくだよ。,chat_skip
+forstsan,>>some_agent教えない。,chat_skip
+forstsan,some_agentに投票するわ。,vote
+forstsan,some_agentはひょっとするとKanolabさんですか。,chat_skip
+forstsan,some_agentはひょっとするとKeldicさんですか。,chat_skip
+forstsan,some_agentはひょっとするとUdonさんですか。,chat_skip
+forstsan,some_agentは真か狼だよ,enum
+forstsan,あ、どーも僕が狂人です。,comingout_possessed
+forstsan,いやー死にたくない。,chat_skip
+forstsan,うーん、どうしようか。,chat_skip
+forstsan,おはよう。占い師いる？,chat_whoisseer
+forstsan,お手柔らかにお願いします。,chat_skip
+forstsan,ちょっと状況を整理しています。,chat_skip
+forstsan,ワオーン,chat_skip
+forstsan,狂人把握した。,comingout_possessed
+forstsan,私は占い師です,comingout_seer
+forstsan,占いの結果some_agentは人間でした。,divined_human
+forstsan,占いの結果some_agentは人狼でした。,divined_werewolf
+forstsan,全くわからん。,chat_skip
+forstsan,誰に投票するべきかな。,chat_skip
+forstsan,投票先絞れんわ。,chat_skip
+forstsan,二日目の朝が来てしまった。,chat_skip
+m_cre,>>some_agent some_agent、おまえは誰が狂人だと思う？,chat_whoispossessed
+m_cre,>>some_agent some_agent、オレは狂人じゃないぜ。,chat_skip
+m_cre,>>some_agent some_agentさん、あたしが占い師だわ！　あなたは狂人なの！？,comingout_seer
+m_cre,>>some_agent some_agentさん、あたしはsome_agentさんが怪しいと思うわ。,estimate_werewolf
+m_cre,>>some_agent some_agentさん、あたしはsome_agentさんが狂人だと思うわ。,estimate_possessed
+m_cre,>>some_agent some_agentさん、あたしはsome_agentさんは怪しくないと思うわ。,estimate_werewolf
+m_cre,>>some_agent some_agentさん、あたしはあなたが狂人だと思うわ。,estimate_possessed
+m_cre,>>some_agent some_agentさん、あなたは誰が狂人だと思いますか？,chat_whoispossessed
+m_cre,>>some_agent some_agentさん、あなたは誰が人狼だと思いますか？,chat_whoiswerewolf
+m_cre,>>some_agent some_agentさん、あなたは誰が村人だと思いますか？,chat_whoisvillager
+m_cre,>>some_agent some_agentさん、いま時点では僕はsome_agentさんに投票しようと思っているよ。,vote
+m_cre,>>some_agent some_agentさん、いま時点では僕はきみに投票しようと思っているよ。,vote
+m_cre,>>some_agent some_agentさん、うーん、まだ考えがまとまらないよ。,chat_skip
+m_cre,>>some_agent some_agentさん、きみは誰が狂人だと思いますか？,chat_whoispossessed
+m_cre,>>some_agent some_agentさん、きみは誰が人狼だと思いますか？,chat_whoiswerewolf
+m_cre,>>some_agent some_agentさん、きみは誰が村人だと思いますか？,chat_whoisvillager
+m_cre,>>some_agent some_agentさん、それは昨日からちょっと様子がおかしいと思ったから……。,chat_skip
+m_cre,>>some_agent some_agentさん、ぼくが占い師だよ！　キミが人狼なの！？,comingout_seer
+m_cre,>>some_agent some_agentさん、ぼくが占い師だよ！　キミは狂人なの！？,comingout_seer
+m_cre,>>some_agent some_agentさん、ぼくはsome_agentさんが怪しいと思うよ。,estimate_werewolf
+m_cre,>>some_agent some_agentさん、ぼくはsome_agentさんは怪しくないと思うよ。,estimate_werewolf
+m_cre,>>some_agent some_agentさん、ぼくは狂人じゃないよ。,chat_skip
+m_cre,>>some_agent some_agentさん、わたしが占い師です！　あなたは狂人なのですか！？,comingout_seer
+m_cre,>>some_agent some_agentさん、わたしはsome_agentさんが怪しいと思うわ。,chat_skip
+m_cre,>>some_agent some_agentさん、わたしはsome_agentさんは怪しくないと思うわ。,chat_skip
+m_cre,>>some_agent some_agentさん、わたしは狂人じゃないわ。,chat_skip
+m_cre,>>some_agent some_agentさん、キミは誰が村人だと思いますか？,chat_whoisvillager
+m_cre,>>some_agent some_agentさん、僕が占い師です！　きみが人狼なんですか！？,comingout_seer
+m_cre,>>some_agent some_agentさん、僕が占い師です！　きみは狂人なんですか！？,comingout_seer
+m_cre,>>some_agent some_agentさん、僕はsome_agentさんが怪しいと思うよ。,estimate_werewolf
+m_cre,>>some_agent some_agentさん、僕はsome_agentさんが狂人だと思うよ。,estimate_possessed
+m_cre,>>some_agent some_agentさん、僕はきみが怪しいと思うよ。,estimate_werewolf
+m_cre,>>some_agent some_agentさん、僕は人狼じゃないよ。,chat_skip
+m_cre,>>some_agent some_agentさん、僕もだよ！,chat_skip
+m_cre,some_agentがあやしいと思うから投票するぜ。,vote
+m_cre,some_agentが死んでしまった……。,chat_skip
+m_cre,some_agentが人狼だと思うから投票するぜ。,estimate_werewolf
+m_cre,some_agentさんがあやしいと思うから投票するよ。,vote
+m_cre,some_agentさんがあやしいと思うから投票するわ。,vote
+m_cre,some_agentさんが死んじゃいました……。,chat_skip
+m_cre,some_agentさんが死んじゃった……。,chat_skip
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを白と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんが襲撃されたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんが僕を黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんが僕を白と言っていて、some_agentさんが襲撃されたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんが自称占い師で、some_agentさんが僕を白と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんが人狼だと思うから投票するよ。,estimate_werewolf
+m_cre,some_agentさんが人狼だと思うから投票するわ。,estimate_werewolf
+m_cre,some_agentさんとsome_agentさんが自称占い師だから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師だから、some_agentさんかsome_agentさんが人狼だと思うよ。,estimate_werewolf
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんかsome_agentさんが狂人だと思うわ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを白と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うわ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがあたしを黒と言っていたから、some_agentさんかsome_agentさんが狂人だと思うわ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんが僕を黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんが僕を白、some_agentさんが僕を黒と言っていて、some_agentさんが襲撃されたから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんが僕を白と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うわ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うわ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを白と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを白、some_agentさんが僕を黒と言っていて、some_agentさんが襲撃されたから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんが僕を白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていて、some_agentさんが襲撃されたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんがぼくを白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒、some_agentさんが僕を白と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒、some_agentさんが僕を白と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒、some_agentさんが僕を白と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白、some_agentさんが僕を黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白と言っていたから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白と言っていたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんが僕を白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんが僕を白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白、some_agentさんがsome_agentさんを白と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,some_agentさんに投票してください。,vote
+m_cre,some_agentさんに投票してね。,vote
+m_cre,some_agentさんに投票するよ。,vote
+m_cre,some_agentさんに投票するわ。,vote
+m_cre,some_agentさんの占いの結果は、人間だったよ。,divined_human
+m_cre,some_agentさんの占いの結果は、人間だったわ。,divined_human
+m_cre,some_agentさんの占いの結果は、人狼だったよ。,divined_werewolf
+m_cre,some_agentさんの占い結果は、人間だったよ。,divined_human
+m_cre,some_agentさんの占い結果は、人間だったわ。,divined_human
+m_cre,some_agentさんの占い結果は、人狼だったよ。,divined_werewolf
+m_cre,some_agentさんは嘘をついているよ！　ぼくが本当の占い師だよ！,comingout_seer
+m_cre,some_agentさんは嘘をついているよ！　僕が本当の占い師です！,comingout_seer
+m_cre,some_agentさんは偽物です！　僕こそが本当の占い師です！,comingout_seer
+m_cre,some_agentさんを占ったら、人間だったよ。,divined_human
+m_cre,some_agentさんを占ったら、人狼だったよ。,divined_werewolf
+m_cre,some_agentさんを占った結果は、人間だったよ。,divined_human
+m_cre,some_agentさんを占った結果は、人狼だったよ。,divined_werewolf
+m_cre,some_agentとsome_agentが自称占い師で、some_agentがsome_agentを白、some_agentがsome_agentを黒と言っていたから、some_agentが狂人だと思うぜ。,enum
+m_cre,some_agentとsome_agentが自称占い師で、some_agentがsome_agentを白、some_agentがsome_agentを黒と言っていたから、some_agentが人狼だと思うぜ。,enum
+m_cre,some_agentとsome_agentが自称占い師で、some_agentがsome_agentを白、some_agentがsome_agentを黒と言っていて、some_agentが襲撃されたから、some_agentが人狼だと思うぜ。,enum
+m_cre,some_agentに投票するぜ。,vote
+m_cre,some_agentを占った結果は、人狼だったぜ。,divined_werewolf
+m_cre,あたしが占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うわ。,enum
+m_cre,あたしは占い師だわ。,comingout_seer
+m_cre,あはははは！　オレが狂人だぜ！,comingout_possessed
+m_cre,あはははは！　僕が狂人だよ！,comingout_possessed
+m_cre,ありがとう、僕は人狼だよ。,comingout_werewolf
+m_cre,うひゃひゃひゃひゃひゃひゃひゃ！,chat_skip
+m_cre,え！　助けて！,chat_skip
+m_cre,がんばります！,chat_skip
+m_cre,これで人狼様の世界だよ！,chat_skip
+m_cre,こんにちは。,chat_greeting
+m_cre,さっきと状況が変わったから、やっぱりsome_agentさんに投票するよ。,vote
+m_cre,どっちが本当の占い師なんだろう。,chat_skip
+m_cre,ふふふ、僕は人狼だよ。,comingout_werewolf
+m_cre,ふふふふ、あたしが狂人だわ！,comingout_possessed
+m_cre,ふふふふ、僕が狂人だよ！,comingout_possessed
+m_cre,ぼくが勝つよ！,chat_skip
+m_cre,ぼくが占い師で、some_agentさんが自称占い師で、some_agentさんがぼくを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,ぼくは占い師だよ。,comingout_seer
+m_cre,みんな死んじゃえ！,chat_skip
+m_cre,もうあたしたちのほうが多いようね。ふふふ、あたしは人狼だわ。,comingout_werewolf
+m_cre,もうわたしたちのほうが多いようですね。わおーん、わたしは人狼だわ。,comingout_werewolf
+m_cre,もう手はないかな……。,chat_skip
+m_cre,もう終わりだよ……。,chat_skip
+m_cre,もう終わりだわ……。,chat_skip
+m_cre,もう僕たちのほうが多いようだね。ふふふ、僕は人狼だよ。,comingout_werewolf
+m_cre,もう僕たちのほうが多いようだね。わおーん、僕は人狼だよ。,comingout_werewolf
+m_cre,やっぱりsome_agentが人狼だと思う。投票するぜ。,estimate_werewolf
+m_cre,やっぱりsome_agentさんが人狼だと思う。投票するよ。,estimate_werewolf
+m_cre,やっぱりsome_agentさんが人狼だと思う。投票するわ。,estimate_werewolf
+m_cre,よろしくね。,chat_skip
+m_cre,わおーん、僕は人狼だよ。,comingout_werewolf
+m_cre,わたしが占い師で、some_agentさんが自称占い師で、some_agentさんがわたしを黒と言っていたから、some_agentさんが人狼だと思うわ。,enum
+m_cre,わたしは占い師だわ。,comingout_seer
+m_cre,オレが勝つ！,chat_skip
+m_cre,オレが占い師で、some_agentが自称占い師で、some_agentがsome_agentを白と言っていたから、some_agentかsome_agentが人狼だと思うぜ。,enum
+m_cre,オレは占い師だぜ。,comingout_seer
+m_cre,狂人さん、うまくやったよ！,chat_skip
+m_cre,狂人さん、うまくやったわ！,chat_skip
+m_cre,昨日の占い結果だぜ、some_agentは人狼だったぜ。,divined_werewolf
+m_cre,昨日の占い結果だよ、some_agentさんは人間だったよ。,divined_human
+m_cre,昨日の占い結果だよ、some_agentさんは人狼だったよ。,divined_werewolf
+m_cre,昨日の占い結果だわ、some_agentさんは人狼だったわ。,divined_werewolf
+m_cre,食べちゃうよー！,chat_skip
+m_cre,食べちゃうわー！,chat_skip
+m_cre,信じられないぜ……。,chat_skip
+m_cre,信じられないよ……。,chat_skip
+m_cre,信じられないわ……。,chat_skip
+m_cre,人間なんて滅びればいいんだぜ！,chat_skip
+m_cre,人間なんて滅びればいいんだよ！,chat_skip
+m_cre,人間なんて滅びればいいんだわ！,chat_skip
+m_cre,人狼様！ オレを食べてください！,chat_skip
+m_cre,人狼様！ 僕を食べてください！,chat_skip
+m_cre,逃げても無駄だよ！,chat_skip
+m_cre,逃げるしかない！,chat_skip
+m_cre,美味しい人間が食べたいよ！,chat_skip
+m_cre,僕が占い師だから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師だから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師だから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師だから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていて、some_agentさんが襲撃されたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていて、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんが僕を黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんが僕を白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが自称占い師で、some_agentさんが僕を白と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんが襲撃されたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師だから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師だから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒、some_agentさんがsome_agentさんを白と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白と言っていたから、some_agentさんかsome_agentさんが狂人だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白と言っていたから、some_agentさんかsome_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を白と言っていたから、some_agentさんが人狼だと思うよ。,enum
+m_cre,僕が占い師で、some_agentさんとsome_agentさんとsome_agentさんが自称占い師で、some_agentさんが僕を黒、some_agentさんがsome_agentさんを白、some_agentさんがsome_agentさんを黒と言っていたから、some_agentさんが狂人だと思うよ。,enum
+m_cre,僕は占い師だよ。,comingout_seer
+m_cre,本当に襲われるなんて。,chat_skip
+r1,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,chat_skip
+r1,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,chat_skip
+r1,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されている為です。,chat_skip
+r1,>>some_agent some_agentさんは他のエージェントと違い、1日目に非占いに投票している為です。,chat_skip
+r1,>>some_agent貴方に投票します。,vote
+r1,>>some_agent貴方に投票します。何故ならば、1日目に占い師に人狼判定を出されていて、占いに誘導していない為です。,vote
+r1,>>some_agent貴方は何故彼を疑っていますか？,chat_skip
+r1,>>some_agent貴方は誰を疑っていますか？,chat_skip
+r1,>>some_agent私は人外ではありません。,chat_skip
+r1,>>some_agent私は人外ではありません。何故ならば、1日目に人狼判定を占いに出していない為です。,chat_skip
+r1,>>some_agent私は人外ではありません。何故ならば、1日目に人狼判定を非占いに出している為です。,chat_skip
+r1,>>some_agent私は人外ではありません。何故ならば、1日目に占いに誘導している為です。,chat_skip
+r1,>>some_agent私は人外ではありません。何故ならば、2日目に誘導が多い為です。,chat_skip
+r1,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは村人のsome_agentに人狼判定、を出していますね。,divined_werewolf
+r1,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定、を出していますね。,divined_werewolf
+r1,some_agentさんを占った所、結果は人狼でした。,divined_werewolf
+r1,あなたには関係のない事です。,chat_skip
+r1,そうですか。,chat_skip
+r1,そうですね。,chat_skip
+r1,はい。,chat_skip
+r1,よろしくおねがいします。,chat_skip
+r1,私はsome_agentを真占い師だと考えます。何故ならば、1日目に人狼判定を占いに出している為です。,estimate_seer
+r1,私はsome_agentを真占い師だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,enum
+r1,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,estimate_werewolf
+r1,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されている為です。,estimate_werewolf
+r1,私はsome_agentを人外だと考えます。何故ならば、1日目に非占いに投票している為です。,estimate_werewolf
+r1,私は狂人です。何故ならば、1日目に非占いに投票していない為です。,comingout_possessed
+r1,私は占い師です。,comingout_seer
+r1,占い師が2人出ています。真占いが出ていると仮定して、狂人と人狼なら狂人の方が占いに出やすい為、占いは真狂で見ています。,estimate_seer
+r1,占い師さん、占いCOをお願いします。,chat_whoisseer
+r2,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,chat_skip
+r2,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されている為です。,chat_skip
+r2,>>some_agent貴方に投票します。,vote
+r2,>>some_agent貴方に投票します。何故ならば、1日目に占いに誘導している為です。,vote
+r2,>>some_agent貴方に投票します。何故ならば、1日目に占い師に人狼判定を出されていて、占いに誘導している為です。,vote
+r2,>>some_agent貴方に投票します。何故ならば、1日目に非占いに投票している為です。,vote
+r2,>>some_agent貴方は何故彼を疑っていますか？,vote
+r2,>>some_agent貴方は誰を疑っていますか？,vote
+r2,>>some_agent私は人外ではありません。何故ならば、1日目に人狼判定を占いに出していない為です。,vote
+r2,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定、を出していますね。,estimate_werewolf
+r2,some_agentさんを占った所、結果は人狼でした。,estimate_werewolf
+r2,そうですか。,chat_skip
+r2,そうですね。,chat_skip
+r2,はい。,chat_skip
+r2,よろしくおねがいします。,chat_greeting
+r2,私はsome_agentを真占い師だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,estimate_seer
+r2,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,estimate_werewolf
+r2,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,estimate_werewolf
+r2,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されている為です。,estimate_werewolf
+r2,私は狂人です。何故ならば、1日目に人狼判定を非占いに出していない為です。,comingout_possessed
+r2,私は人狼です。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,comingout_werewolf
+r2,私は人狼です。何故ならば、1日目に非占いに投票していない為です。,comingout_werewolf
+r2,私は占い師です。,comingout_seer
+r2,占い師が2人出ています。真占いが出ていると仮定して、狂人と人狼なら狂人の方が占いに出やすい為、占いは真狂で見ています。,enum
+r2,占い師さん、占いCOをお願いします。,chat_whoisseer
+r3,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されていて、非占いに投票していない為です。,chat_skip
+r3,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されている為です。,chat_skip
+r3,>>some_agent貴方に投票します。,vote
+r3,>>some_agent貴方は何故彼を疑っていますか？,chat_skip
+r3,>>some_agent貴方は誰を疑っていますか？,chat_skip
+r3,>>some_agent私は人外ではありません。何故ならば、1日目に非占いに投票している為です。,chat_skip
+r3,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは村人のsome_agentに人狼判定、を出していますね。,divined_werewolf
+r3,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定、を出していますね。,divined_werewolf
+r3,あなたには関係のない事です。,chat_skip
+r3,そうですか。,chat_skip
+r3,はい。,chat_skip
+r3,よろしくおねがいします。,chat_greeting
+r3,私はsome_agentを真占い師だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,estimate_seer
+r3,私はsome_agentを真占い師だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,estimate_seer
+r3,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、占いに誘導している為です。,estimate_werewolf
+r3,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されている為です。,estimate_werewolf
+r3,占い師が2人出ています。真占いが出ていると仮定して、狂人と人狼なら狂人の方が占いに出やすい為、占いは真狂で見ています。,enum
+r3,占い師さん、占いCOをお願いします。,chat_whoisseer
+r4,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,chat_skip
+r4,>>some_agent some_agentさんは他のエージェントと違い、1日目に占い師に人狼判定を出されている為です。,chat_skip
+r4,>>some_agent貴方に投票します。,vote
+r4,>>some_agent貴方に投票します。何故ならば、1日目に占いに誘導している為です。,vote
+r4,>>some_agent貴方は何故彼を疑っていますか？,chat_skip
+r4,>>some_agent私は人外ではありません。,chat_skip
+r4,>>some_agent私は人外ではありません。何故ならば、1日目に非占いに投票していない為です。,chat_skip
+r4,some_agentさんは占い師のsome_agentに人狼判定、some_agentさんは村人のsome_agentに人狼判定、を出していますね。,divined_human
+r4,some_agentさんは村人のsome_agentに人狼判定、some_agentさんは占い師のsome_agentに人狼判定、を出していますね。,divined_human
+r4,あなたには関係のない事です。,chat_skip
+r4,そうですね。,chat_skip
+r4,はい。,chat_skip
+r4,よろしくおねがいします。,chat_greeting
+r4,私はsome_agentを真占い師だと考えます。何故ならば、1日目に人狼判定を占いに出している為です。,estimate_seer
+r4,私はsome_agentを真占い師だと考えます。何故ならば、1日目に人狼判定を非占いに出していない為です。,estimate_seer
+r4,私はsome_agentを真占い師だと考えます。何故ならば、1日目に占いに誘導している為です。,estimate_seer
+r4,私はsome_agentを真占い師だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,estimate_seer
+r4,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を占いに出していない為です。,estimate_werewolf
+r4,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されていて、人狼判定を非占いに出している為です。,estimate_werewolf
+r4,私はsome_agentを人外だと考えます。何故ならば、1日目に占い師に人狼判定を出されている為です。,estimate_werewolf
+r4,私はsome_agentを人外だと考えます。何故ならば、2日目に人外CO者に誘導している為です。,estimate_werewolf
+r4,私は人狼です。何故ならば、1日目に占い師に人狼判定を出されていて、占いに誘導している為です。,comingout_werewolf
+r4,私は人狼です。何故ならば、1日目に占い師に人狼判定を出されていて、非占いに投票していない為です。,comingout_werewolf
+r4,占い師が2人出ています。真占いが出ていると仮定して、狂人と人狼なら狂人の方が占いに出やすい為、占いは真狂で見ています。,chat_skip
+r4,占い師さん、占いCOをお願いします。,chat_whoisseer
