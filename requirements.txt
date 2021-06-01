@@ -40,7 +40,7 @@ tensorflow==2.3.1
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 typing-extensions==3.7.2
-urllib3==1.24.2
+urllib3==1.26.5
 websockets==6.0
 Werkzeug==0.15.3
 yarl==1.3.0
